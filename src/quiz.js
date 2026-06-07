@@ -25,6 +25,27 @@ let scoreHistory  = []; // 5 derniers scores (mémoire de session uniquement)
 // Modes à correction immédiate (réponse révélée dès la sélection, sans chrono)
 function isImmediateMode() { return examMode === 'theme' || examMode === 'revision'; }
 
+// ===== THÈME CLAIR / SOMBRE (état en mémoire de session) =====
+// Initialisé depuis la préférence système ; bascule manuelle sans persistance.
+let currentTheme = (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches)
+  ? 'light' : 'dark';
+
+function applyTheme(mode) {
+  currentTheme = mode;
+  document.documentElement.setAttribute('data-theme', mode);
+  const btn = document.getElementById('themeToggle');
+  if (btn) {
+    btn.textContent = (mode === 'light') ? '🌙' : '☀️';
+    btn.setAttribute('aria-label', mode === 'light' ? 'Passer en thème sombre' : 'Passer en thème clair');
+  }
+}
+
+function toggleTheme() {
+  applyTheme(currentTheme === 'light' ? 'dark' : 'light');
+}
+
+applyTheme(currentTheme); // applique le thème initial dès le chargement du script
+
 // ===== NAVIGATION ÉCRANS =====
 function showScreen(id) {
   const screens = ['screenHome','screenLoading','screenError','screenThemeSelect','screenResult'];
