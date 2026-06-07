@@ -1,0 +1,608 @@
+{
+  "id": "examen_10",
+  "titre": "Examen blanc n°10",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "institutions_033",
+      "q": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "options": [
+        "2000",
+        "1992",
+        "2002",
+        "1999"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pièces et billets en euros circulent depuis 2002. L'euro existait comme monnaie de compte depuis 1999."
+    },
+    {
+      "id": "institutions_010",
+      "q": "Qui nomme le Premier ministre ?",
+      "options": [
+        "Le Président de la République.",
+        "Le Sénat.",
+        "L'Assemblée nationale.",
+        "Les citoyens par un vote direct."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Premier ministre est nommé par le Président de la République (article 8). Le Président met aussi fin à ses fonctions."
+    },
+    {
+      "id": "histoire_034",
+      "q": "Où habite la majorité des Français ?",
+      "options": [
+        "Dans les villages de montagne.",
+        "Principalement à l'étranger.",
+        "Sur les îles d'outre-mer.",
+        "Dans les grandes villes et leurs périphéries (zones urbaines)."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La majorité des Français habitent dans les zones urbaines : grandes villes et leurs périphéries. La population est très urbanisée."
+    },
+    {
+      "id": "societe_002",
+      "q": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "options": [
+        "Le rectorat directement.",
+        "Le tribunal.",
+        "La mairie.",
+        "La préfecture."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents inscrivent leur enfant à l'école publique auprès de la mairie. La commune gère les écoles maternelles et primaires."
+    },
+    {
+      "id": "droits_031",
+      "q": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+      "options": [
+        "L'obligation de changer de religion.",
+        "L'interdiction de voter.",
+        "L'interdiction de critiquer le gouvernement.",
+        "Le port du masque en période épidémique."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le port du masque ou le confinement lors d'une épidémie limitent des libertés pour protéger la santé de tous. C'est une mesure d'intérêt général."
+    },
+    {
+      "id": "droits_001",
+      "q": "À quelle liberté la PMA fait-elle référence ?",
+      "options": [
+        "La liberté d'expression.",
+        "La liberté du commerce.",
+        "La liberté de circulation.",
+        "La liberté de fonder une famille."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La PMA renvoie à la liberté de fonder une famille. Elle aide les couples ou les femmes à avoir des enfants."
+    },
+    {
+      "id": "institutions_014",
+      "q": "Qui sanctionne l'auteur d'un vol ?",
+      "options": [
+        "Le pouvoir judiciaire (les juges).",
+        "Le Président de la République.",
+        "L'Assemblée nationale.",
+        "Le maire de la commune."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "C'est le pouvoir judiciaire, par l'intermédiaire des juges, qui sanctionne l'auteur d'un vol. La justice juge les infractions."
+    },
+    {
+      "id": "valeurs_039",
+      "q": "Qu'est ce qui est interdit par la Charte de la laïcité à l'école ?",
+      "options": [
+        "Porter des signes religieux ostentatoires.",
+        "Parler de ses convictions à la maison.",
+        "Manger à la cantine scolaire.",
+        "Étudier l'histoire des religions en cours."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de la laïcité interdit aux élèves le port de signes religieux ostentatoires (loi de 2004). L'étude des faits religieux, elle, est autorisée."
+    },
+    {
+      "id": "histoire_045",
+      "q": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+      "options": [
+        "La cathédrale Notre-Dame de Paris.",
+        "La basilique du Sacré-Cœur.",
+        "La cathédrale de Reims.",
+        "La cathédrale de Chartres."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La cathédrale Notre-Dame de Paris a été en partie détruite par un incendie en 2019. Sa restauration s'est achevée en 2024."
+    },
+    {
+      "id": "histoire_049",
+      "q": "Quelle fête est française ?",
+      "options": [
+        "Le 14 juillet.",
+        "Halloween.",
+        "Le Carnaval de Rio.",
+        "Thanksgiving."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le 14 juillet, le 8 mai, le 11 novembre ou le 1er mai sont des fêtes françaises. Le 14 juillet est la fête nationale."
+    },
+    {
+      "id": "societe_004",
+      "q": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "options": [
+        "Le revenu de solidarité active (RSA).",
+        "L'aide personnalisée au logement (APL).",
+        "L'allocation chômage.",
+        "L'aide juridictionnelle."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'aide juridictionnelle permet aux personnes aux revenus modestes de payer un avocat. L'État prend en charge tout ou partie des frais de justice."
+    },
+    {
+      "id": "histoire_036",
+      "q": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+      "options": [
+        "Guéret.",
+        "Vannes.",
+        "Aurillac.",
+        "Paris."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Paris, Marseille, Lyon, Toulouse ou Lille comptent parmi les plus grandes métropoles françaises. Les petites villes comme Guéret n'en font pas partie."
+    },
+    {
+      "id": "droits_018",
+      "q": "Qui peut demander à avorter ?",
+      "options": [
+        "Aucune femme : c'est interdit.",
+        "Toute femme enceinte, sous conditions légales.",
+        "Seulement avec l'accord du père.",
+        "Uniquement les femmes mariées."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Toute femme enceinte peut demander une IVG, dans les conditions et délais fixés par la loi. L'accord d'un tiers n'est pas requis."
+    },
+    {
+      "id": "droits_026",
+      "q": "Pourquoi doit-on trier ses déchets ?",
+      "options": [
+        "Pour augmenter le volume des poubelles.",
+        "Cela n'a aucune utilité.",
+        "Pour réduire la quantité de déchets envoyés en décharge et recycler les matériaux.",
+        "Pour payer moins d'impôts locaux."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le tri réduit les déchets envoyés en décharge et permet de recycler verre, papier et plastique. Il limite la pollution."
+    },
+    {
+      "id": "valeurs_028",
+      "q": "En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?",
+      "options": [
+        "1789",
+        "1958",
+        "1901",
+        "1905"
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La loi de séparation des Églises et de l'État date de 1905. 1789 est la Révolution, 1901 la loi sur les associations, 1958 la Constitution actuelle."
+    },
+    {
+      "id": "societe_021",
+      "q": "Quelles sont les conditions pour toucher les allocations chômage ?",
+      "options": [
+        "Refuser de chercher un emploi.",
+        "Avoir démissionné volontairement sans motif.",
+        "Ne jamais avoir travaillé.",
+        "Avoir perdu involontairement son emploi et remplir certaines conditions d'activité antérieure."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les allocations chômage supposent une perte involontaire d'emploi, une durée d'activité suffisante et une recherche active. Il faut être inscrit à France Travail."
+    },
+    {
+      "id": "societe_007",
+      "q": "Un bail locatif est valide s'il est :",
+      "options": [
+        "Conclu uniquement à l'oral.",
+        "Validé par la mairie.",
+        "Écrit et signé par les deux parties.",
+        "Signé par le locataire seul."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un bail locatif doit être écrit et signé par le propriétaire et le locataire. L'écrit protège les deux parties."
+    },
+    {
+      "id": "histoire_019",
+      "q": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+      "options": [
+        "L'Afrique.",
+        "L'Amérique du Nord.",
+        "L'Antarctique.",
+        "L'Océanie."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La décolonisation française après 1945 a surtout concerné l'Afrique. De nombreux pays africains sont devenus indépendants vers 1960."
+    },
+    {
+      "id": "institutions_045",
+      "q": "Où est le siège de la Commission européenne ?",
+      "options": [
+        "Francfort",
+        "Bruxelles",
+        "Luxembourg",
+        "Strasbourg"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Commission européenne a son siège à Bruxelles. Le Parlement, lui, siège à Strasbourg."
+    },
+    {
+      "id": "valeurs_035",
+      "q": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+      "options": [
+        "Uniquement face à un public religieux.",
+        "Non, ils peuvent afficher leurs convictions.",
+        "Oui, ils doivent faire preuve de neutralité.",
+        "Seulement s'ils le souhaitent."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un agent public doit être neutre pour traiter tous les usagers à égalité. La neutralité s'impose dans l'exercice de ses fonctions."
+    },
+    {
+      "id": "droits_005",
+      "q": "La peine de mort est :",
+      "options": [
+        "Suspendue mais toujours légale.",
+        "Abolie",
+        "Décidée au cas par cas par le Président.",
+        "Autorisée pour les crimes les plus graves."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort est abolie en France depuis 1981. Son abolition est inscrite dans la Constitution depuis 2007."
+    },
+    {
+      "id": "histoire_012",
+      "q": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Louis XIV.",
+        "Napoléon Bonaparte.",
+        "Jules Ferry.",
+        "Jean Moulin."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Jean Moulin est une grande figure de la Résistance française. Il a unifié les mouvements de résistance avant d'être arrêté en 1943."
+    },
+    {
+      "id": "institutions_047",
+      "q": "Quand célèbre-t-on la journée de l'Europe ?",
+      "options": [
+        "Le 8 mai",
+        "Le 9 mai",
+        "Le 1er mai",
+        "Le 14 juillet"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La journée de l'Europe est célébrée le 9 mai. Elle commémore la déclaration Schuman de 1950."
+    },
+    {
+      "id": "valeurs_036",
+      "q": "Que garantit le principe de laïcité ?",
+      "options": [
+        "Une religion officielle pour tous les citoyens.",
+        "Le financement des Églises par l'impôt.",
+        "La liberté de conscience et la séparation des institutions.",
+        "L'interdiction pure et simple des cultes."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité garantit la liberté de conscience et la séparation des institutions et des religions. Elle assure l'égalité de tous devant la loi."
+    },
+    {
+      "id": "droits_023",
+      "q": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ?",
+      "options": [
+        "Prendre sa voiture pour de très courts trajets.",
+        "Laisser couler l'eau en permanence.",
+        "Brûler ses déchets dans son jardin.",
+        "Trier ses déchets et réduire sa consommation d'eau."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Trier ses déchets et réduire sa consommation d'eau sont des gestes respectueux de l'environnement. Les transports en commun y contribuent aussi."
+    },
+    {
+      "id": "histoire_033",
+      "q": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+      "options": [
+        "La Russie.",
+        "La France.",
+        "Le Canada.",
+        "L'Allemagne."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France est le pays qui attire le plus de visiteurs chaque année. C'est la première destination touristique mondiale."
+    },
+    {
+      "id": "histoire_010",
+      "q": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+      "options": [
+        "François Mitterrand",
+        "Jacques Chirac",
+        "Valéry Giscard d'Estaing",
+        "Charles de Gaulle"
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort a été abolie en 1981 sous la présidence de François Mitterrand. La loi fut portée par Robert Badinter."
+    },
+    {
+      "id": "societe_025",
+      "q": "Qui peut manger à la cantine scolaire ?",
+      "options": [
+        "Les élèves et le personnel de l'établissement scolaire.",
+        "N'importe quel passant.",
+        "Uniquement les enseignants.",
+        "Seulement les parents d'élèves."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La cantine scolaire accueille les élèves inscrits ainsi que le personnel de l'établissement. Ce n'est pas un restaurant ouvert au public."
+    },
+    {
+      "id": "institutions_028",
+      "q": "Quel est le rôle du président de la République ?",
+      "options": [
+        "Il vote les lois à l'Assemblée nationale.",
+        "Il est le Chef de l'État et des Armées.",
+        "Il juge les affaires pénales.",
+        "Il dirige le conseil municipal."
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Président est le chef de l'État et le chef des armées. Il veille au respect de la Constitution."
+    },
+    {
+      "id": "droits_024",
+      "q": "Quelle proposition constitue une obligation ?",
+      "options": [
+        "Posséder une voiture.",
+        "Payer ses impôts.",
+        "Pratiquer une religion.",
+        "Adhérer à un parti politique."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Payer ses impôts, déclarer ses revenus et respecter les lois sont des obligations. Adhérer à un parti ou pratiquer une religion sont des libertés."
+    },
+    {
+      "id": "valeurs_011",
+      "q": "Quelle est la devise de la France ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Liberté, Sécurité, Solidarité",
+        "Travail, Famille, Patrie",
+        "Unité, Progrès, Justice"
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La devise de la France est « Liberté, Égalité, Fraternité ». « Travail, Famille, Patrie » était la devise du régime de Vichy."
+    },
+    {
+      "id": "societe_001",
+      "q": "Quel mariage est reconnu par l'État ?",
+      "options": [
+        "Le simple concubinage.",
+        "Le mariage religieux uniquement.",
+        "Le mariage célébré à l'étranger sans transcription.",
+        "Le mariage civil célébré à la mairie."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Seul le mariage civil célébré à la mairie est reconnu par l'État. Un éventuel mariage religieux ne peut avoir lieu qu'après."
+    },
+    {
+      "id": "institutions_042",
+      "q": "De quelle couleur est le drapeau européen ?",
+      "options": [
+        "Bleu",
+        "Rouge",
+        "Blanc",
+        "Vert"
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le drapeau de l'Union européenne est bleu, avec douze étoiles jaunes. Le bleu en est la couleur de fond."
+    },
+    {
+      "id": "institutions_007",
+      "q": "Est-ce que le vote est obligatoire ?",
+      "options": [
+        "Oui, pour toutes les élections nationales.",
+        "Oui, sous peine d'amende.",
+        "Non, c'est un droit et un devoir civique.",
+        "Oui, c'est obligatoire dès 16 ans."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le vote n'est pas obligatoire en France : c'est un droit et un devoir civique. S'abstenir n'est pas sanctionné."
+    },
+    {
+      "id": "droits_010",
+      "q": "Que prévoit la Charte de l'environnement ?",
+      "options": [
+        "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+        "L'obligation d'utiliser une voiture électrique.",
+        "L'interdiction de toute activité industrielle.",
+        "Le droit de polluer si l'on paie une taxe."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de l'environnement (2004) garantit le droit de vivre dans un environnement sain et le devoir de le protéger. Elle a valeur constitutionnelle."
+    },
+    {
+      "id": "societe_023",
+      "q": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "options": [
+        "Le baccalauréat.",
+        "Le CAP.",
+        "La licence.",
+        "Le brevet des collèges."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin du collège, les élèves passent le brevet des collèges (DNB). Le baccalauréat, lui, sanctionne la fin du lycée."
+    },
+    {
+      "id": "valeurs_006",
+      "q": "Complétez ces paroles de la Marseillaise : \"Aux armes […] ! Formez vos bataillons\"",
+      "options": [
+        "Patriotes",
+        "Français",
+        "Soldats",
+        "Citoyens"
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le refrain de la Marseillaise est « Aux armes, citoyens ! Formez vos bataillons ». L'hymne s'adresse aux citoyens."
+    },
+    {
+      "id": "societe_014",
+      "q": "Qui peut demander un congé parental d'éducation ?",
+      "options": [
+        "Les pères et les mères salariés qui élèvent un enfant.",
+        "Seulement les grands-parents.",
+        "Uniquement les fonctionnaires.",
+        "Uniquement les mères."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le congé parental d'éducation peut être demandé par le père comme par la mère salariés. Il permet de s'occuper d'un enfant après sa naissance."
+    },
+    {
+      "id": "valeurs_027",
+      "q": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "options": [
+        "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+        "Pour interdire toute croyance aux élèves.",
+        "Pour imposer une religion commune.",
+        "Pour favoriser les élèves non croyants."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité à l'école garantit la neutralité de l'enseignement et l'égalité des élèves. Elle protège les enfants de toute pression religieuse."
+    },
+    {
+      "id": "valeurs_016",
+      "q": "Que représente Marianne ?",
+      "options": [
+        "La République française.",
+        "L'armée française.",
+        "L'Union européenne.",
+        "La ville de Paris."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Marianne incarne la République française et ses valeurs : Liberté, Égalité, Fraternité. C'est une figure allégorique née de la Révolution."
+    }
+  ]
+}

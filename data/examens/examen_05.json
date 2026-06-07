@@ -1,0 +1,608 @@
+{
+  "id": "examen_05",
+  "titre": "Examen blanc n°5",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "societe_012",
+      "q": "Qu’est-ce que le principe de confidentialité dans le domaine de la santé ?",
+      "options": [
+        "Le secret médical concernant les informations de santé d'un patient.",
+        "L'obligation de publier le dossier médical.",
+        "Le droit du médecin de tout révéler à l'employeur.",
+        "L'interdiction de consulter son propre dossier."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La confidentialité, c'est le secret médical : le médecin ne divulgue pas les informations de santé du patient. C'est un droit au respect de la vie privée."
+    },
+    {
+      "id": "valeurs_023",
+      "q": "Quelle est la place de la langue française dans la République ?",
+      "options": [
+        "C'est une langue régionale parmi d'autres.",
+        "Elle est facultative dans l'administration.",
+        "Elle est la langue de la République.",
+        "Elle n'a aucun statut officiel."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le français est la langue de la République (article 2 de la Constitution). C'est la langue officielle de l'administration."
+    },
+    {
+      "id": "histoire_015",
+      "q": "Quelle peine a été supprimée en 1981 ?",
+      "options": [
+        "Le travail des enfants.",
+        "La prison à perpétuité.",
+        "La peine de mort.",
+        "Le service militaire."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort a été supprimée en 1981. La France l'a définitivement abolie cette année-là."
+    },
+    {
+      "id": "droits_038",
+      "q": "S'agissant des déchets, quelle proposition est correcte ?",
+      "options": [
+        "Il est important de trier ses déchets pour le recyclage.",
+        "Le tri est inutile pour l'environnement.",
+        "Il faut tout jeter dans la nature.",
+        "Tous les déchets vont dans la même poubelle."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Trier ses déchets permet de recycler le verre, le papier et le plastique. C'est un geste civique pour l'environnement."
+    },
+    {
+      "id": "droits_007",
+      "q": "Le recours à l'avortement est-il autorisé ?",
+      "options": [
+        "Oui, sous conditions et dans le respect de la loi.",
+        "Oui, sans aucune limite de délai.",
+        "Uniquement avec l'accord du conjoint.",
+        "Non, c'est interdit en France."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'avortement (IVG) est autorisé sous conditions et dans le respect de la loi. C'est une liberté garantie par la Constitution."
+    },
+    {
+      "id": "institutions_044",
+      "q": "Où est le siège du Parlement européen ?",
+      "options": [
+        "Genève",
+        "Bruxelles",
+        "Strasbourg",
+        "Francfort"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le siège officiel du Parlement européen est à Strasbourg. Certaines réunions se tiennent aussi à Bruxelles."
+    },
+    {
+      "id": "institutions_021",
+      "q": "Est-ce que le président de la République a tous les pouvoirs ?",
+      "options": [
+        "Oui, il décide de tout seul.",
+        "Oui, il peut modifier les lois à sa guise.",
+        "Non, ses pouvoirs sont encadrés par la Constitution et la séparation des pouvoirs.",
+        "Oui, il contrôle directement la justice."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pouvoirs du Président sont encadrés par la Constitution et la séparation des pouvoirs. Il partage le pouvoir avec le Parlement et les juges."
+    },
+    {
+      "id": "droits_009",
+      "q": "Que garantit la liberté de la presse ?",
+      "options": [
+        "L'obligation pour l'État de valider chaque article.",
+        "La liberté de publier des informations sans contrôle préalable.",
+        "Le droit de publier de fausses informations.",
+        "Le droit de diffamer librement."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de la presse permet aux journalistes d'informer sans contrôle préalable de l'État. Elle reste limitée par la loi (diffamation, injure)."
+    },
+    {
+      "id": "valeurs_035",
+      "q": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+      "options": [
+        "Uniquement face à un public religieux.",
+        "Non, ils peuvent afficher leurs convictions.",
+        "Oui, ils doivent faire preuve de neutralité.",
+        "Seulement s'ils le souhaitent."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un agent public doit être neutre pour traiter tous les usagers à égalité. La neutralité s'impose dans l'exercice de ses fonctions."
+    },
+    {
+      "id": "societe_029",
+      "q": "Quel motif d'absence est accepté par l'école ?",
+      "options": [
+        "Une simple envie de rester à la maison.",
+        "Des vacances hors des congés scolaires.",
+        "Faire les courses en famille.",
+        "Une maladie de l'enfant."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Une maladie de l'enfant ou un événement familial grave sont des motifs d'absence acceptés. Les absences doivent être justifiées auprès de l'école."
+    },
+    {
+      "id": "droits_022",
+      "q": "L'État peut-il limiter les droits et libertés ?",
+      "options": [
+        "Oui, si la loi le prévoit pour des raisons d'intérêt général.",
+        "Non, jamais, en aucune circonstance.",
+        "Oui, à tout moment et sans justification.",
+        "Oui, selon la seule volonté du Président."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État peut limiter des droits si la loi le prévoit pour l'intérêt général (sécurité, santé). Ces limites doivent rester proportionnées."
+    },
+    {
+      "id": "institutions_003",
+      "q": "La loi est l'expression de :",
+      "options": [
+        "La volonté des juges.",
+        "La volonté des grandes entreprises.",
+        "La décision du Président seul.",
+        "La volonté du peuple."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La loi est l'expression de la volonté générale (article 6 de la DDHC). Elle est votée par les représentants du peuple."
+    },
+    {
+      "id": "valeurs_032",
+      "q": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+      "options": [
+        "Que l'État finance toutes les religions à égalité.",
+        "Que l'État choisit une religion majoritaire.",
+        "Que l'État interdit toutes les religions.",
+        "Que l'État n'a pas de religion."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La neutralité signifie que l'État n'a pas de religion, n'en favorise et n'en finance aucune. Il traite toutes les croyances à égalité."
+    },
+    {
+      "id": "societe_028",
+      "q": "À l'école, il est interdit aux parents de :",
+      "options": [
+        "Voter pour leurs représentants.",
+        "Faire du bruit dans les couloirs pendant les heures de classe.",
+        "Rencontrer les enseignants sur rendez-vous.",
+        "S'informer des résultats de leur enfant."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Il est interdit aux parents de perturber les cours ou de faire du bruit dans l'établissement. En revanche, ils peuvent rencontrer les enseignants sur rendez-vous."
+    },
+    {
+      "id": "institutions_008",
+      "q": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",
+      "options": [
+        "Oui, pour un mandat supplémentaire automatique.",
+        "Oui, s'il le décide lui-même.",
+        "Non, il doit obligatoirement être réélu par les citoyens.",
+        "Oui, avec l'accord du gouvernement."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin de son mandat de 5 ans, le Président doit se représenter et être réélu. De nouvelles élections sont organisées."
+    },
+    {
+      "id": "valeurs_026",
+      "q": "Le régime de la France est :",
+      "options": [
+        "Une fédération d'États indépendants.",
+        "Une république semi-présidentielle.",
+        "Une dictature militaire.",
+        "Une monarchie constitutionnelle."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France est une République démocratique de type semi-présidentiel : un Président élu coexiste avec un gouvernement responsable devant le Parlement."
+    },
+    {
+      "id": "valeurs_020",
+      "q": "Sur quel document peut-on voir Marianne ?",
+      "options": [
+        "Sur les plaques d'immatriculation.",
+        "Sur les timbres-poste.",
+        "Sur les cartes bancaires.",
+        "Sur les billets de banque en euros."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Marianne figure notamment sur les timbres-poste et les documents officiels de l'État. Elle symbolise la République."
+    },
+    {
+      "id": "institutions_043",
+      "q": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+      "options": [
+        "1986",
+        "1992",
+        "1957",
+        "2007"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le traité de Maastricht a été signé en 1992. Le traité de Rome (1957) et le traité de Lisbonne (2007) sont d'autres étapes de la construction européenne."
+    },
+    {
+      "id": "valeurs_012",
+      "q": "La répudiation de sa femme est :",
+      "options": [
+        "Interdite en France.",
+        "Permise après dix ans de mariage.",
+        "Autorisée avec l'accord d'un juge.",
+        "Tolérée dans certaines régions."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La répudiation est interdite en France car contraire à l'égalité hommes-femmes. Seul le divorce légal met fin au mariage."
+    },
+    {
+      "id": "histoire_039",
+      "q": "Combien de personnes parlent français dans le monde ?",
+      "options": [
+        "Environ 1 milliard.",
+        "Environ 10 millions.",
+        "Environ 300 millions.",
+        "Environ 50 millions."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Environ 300 millions de personnes parlent français dans le monde. La francophonie est présente sur les cinq continents."
+    },
+    {
+      "id": "histoire_006",
+      "q": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+      "options": [
+        "Pour glorifier la guerre.",
+        "Pour comprendre l'antisémitisme et prévenir de futures atrocités.",
+        "Parce que c'est une simple anecdote historique.",
+        "Pour désigner des coupables aujourd'hui."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Shoah est étudiée pour comprendre l'antisémitisme et empêcher que de telles atrocités se reproduisent. C'est un devoir de mémoire."
+    },
+    {
+      "id": "societe_002",
+      "q": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "options": [
+        "Le rectorat directement.",
+        "Le tribunal.",
+        "La mairie.",
+        "La préfecture."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents inscrivent leur enfant à l'école publique auprès de la mairie. La commune gère les écoles maternelles et primaires."
+    },
+    {
+      "id": "institutions_037",
+      "q": "Quel traité concerne la construction de l'Union européenne ?",
+      "options": [
+        "La Charte des Nations unies.",
+        "Le Traité de Maastricht.",
+        "Le Traité de Versailles.",
+        "Le Pacte de Varsovie."
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Traité de Maastricht (1992) a fondé l'Union européenne. Le Traité de Rome (1957) avait créé la communauté économique."
+    },
+    {
+      "id": "institutions_014",
+      "q": "Qui sanctionne l'auteur d'un vol ?",
+      "options": [
+        "Le pouvoir judiciaire (les juges).",
+        "Le Président de la République.",
+        "L'Assemblée nationale.",
+        "Le maire de la commune."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "C'est le pouvoir judiciaire, par l'intermédiaire des juges, qui sanctionne l'auteur d'un vol. La justice juge les infractions."
+    },
+    {
+      "id": "societe_023",
+      "q": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "options": [
+        "Le baccalauréat.",
+        "Le CAP.",
+        "La licence.",
+        "Le brevet des collèges."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin du collège, les élèves passent le brevet des collèges (DNB). Le baccalauréat, lui, sanctionne la fin du lycée."
+    },
+    {
+      "id": "institutions_024",
+      "q": "Qui dirige la commune ?",
+      "options": [
+        "Le député de la circonscription.",
+        "Le préfet.",
+        "Le Maire.",
+        "Le président du département."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le maire dirige la commune, assisté du conseil municipal. Il est élu par ce conseil après les élections municipales."
+    },
+    {
+      "id": "valeurs_031",
+      "q": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+      "options": [
+        "Les élèves en classe.",
+        "Les agents administratifs de l'école.",
+        "Les enseignants pendant les cours.",
+        "Les parents d'élèves."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents d'élèves, simples usagers, peuvent porter des signes religieux. Les élèves (loi de 2004) et les agents publics, tenus à la neutralité, ne le peuvent pas."
+    },
+    {
+      "id": "societe_018",
+      "q": "Quelle est la mission de France Travail ?",
+      "options": [
+        "Verser les retraites.",
+        "Gérer les impôts.",
+        "Accompagner les demandeurs d'emploi et les employeurs.",
+        "Délivrer les titres de séjour."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "France Travail accompagne les demandeurs d'emploi et les employeurs. Elle verse aussi les allocations chômage."
+    },
+    {
+      "id": "histoire_042",
+      "q": "Quel musée est situé à Paris ?",
+      "options": [
+        "Le musée du Louvre.",
+        "Le musée du Prado, à Madrid.",
+        "Les Offices, à Florence.",
+        "Le British Museum, à Londres."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Louvre, le musée d'Orsay et le Centre Pompidou sont à Paris. Le Louvre abrite notamment la Joconde."
+    },
+    {
+      "id": "valeurs_027",
+      "q": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "options": [
+        "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+        "Pour interdire toute croyance aux élèves.",
+        "Pour imposer une religion commune.",
+        "Pour favoriser les élèves non croyants."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité à l'école garantit la neutralité de l'enseignement et l'égalité des élèves. Elle protège les enfants de toute pression religieuse."
+    },
+    {
+      "id": "societe_009",
+      "q": "Quel numéro d'urgence permet d'appeler la police ?",
+      "options": [
+        "17",
+        "15",
+        "112",
+        "18"
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le 17 permet d'appeler la police. Le 15 joint le SAMU, le 18 les pompiers et le 112 est le numéro d'urgence européen."
+    },
+    {
+      "id": "droits_020",
+      "q": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+      "options": [
+        "On peut tout publier : internet est une zone sans loi.",
+        "Il faut respecter la vie privée d'autrui et ne pas tenir de propos haineux.",
+        "L'anonymat autorise les insultes.",
+        "Les propos racistes y sont permis."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Sur les réseaux sociaux, la loi s'applique comme dans la vie réelle : pas d'insultes, pas de haine. Chacun est responsable de ce qu'il publie."
+    },
+    {
+      "id": "societe_026",
+      "q": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "options": [
+        "2 ans",
+        "6 ans",
+        "7 ans",
+        "3 ans"
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Depuis 2019, l'instruction est obligatoire dès 3 ans. Auparavant, elle débutait à 6 ans."
+    },
+    {
+      "id": "droits_032",
+      "q": "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+      "options": [
+        "Prodiguer les premiers secours et appeler les secours si nécessaire.",
+        "Ne rien faire pour éviter les ennuis.",
+        "Filmer pour les réseaux sociaux puis partir.",
+        "Participer aux violences."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Témoin de violences, on doit porter secours et alerter la police (17) sans se mettre en danger. La non-assistance est punie par la loi."
+    },
+    {
+      "id": "histoire_008",
+      "q": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+      "options": [
+        "1848",
+        "1962",
+        "1945",
+        "1958"
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Président est élu au suffrage universel direct depuis la réforme de 1962, voulue par le général de Gaulle. Avant, il était élu par un collège."
+    },
+    {
+      "id": "histoire_031",
+      "q": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+      "options": [
+        "L'Italie.",
+        "L'Espagne.",
+        "L'Allemagne.",
+        "Le Royaume-Uni."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Au nord-est, la France a une frontière avec l'Allemagne, la Belgique et le Luxembourg. L'Espagne est au sud."
+    },
+    {
+      "id": "histoire_014",
+      "q": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+      "options": [
+        "L'OTAN.",
+        "L'Union européenne.",
+        "L'Organisation des Nations Unies (ONU).",
+        "La Société des Nations."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Organisation des Nations Unies (ONU) a été créée en 1945, après la Seconde Guerre mondiale. Elle vise à maintenir la paix dans le monde."
+    },
+    {
+      "id": "histoire_019",
+      "q": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+      "options": [
+        "L'Afrique.",
+        "L'Amérique du Nord.",
+        "L'Antarctique.",
+        "L'Océanie."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La décolonisation française après 1945 a surtout concerné l'Afrique. De nombreux pays africains sont devenus indépendants vers 1960."
+    },
+    {
+      "id": "droits_003",
+      "q": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "options": [
+        "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+        "Le mariage n'est autorisé qu'entre un homme et une femme.",
+        "Le mariage religieux suffit à être reconnu par l'État.",
+        "On peut se marier dès 15 ans sans condition."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le mariage est un contrat civil ouvert à deux personnes majeures, de même sexe ou de sexe différent (loi de 2013). Seul le mariage civil est reconnu par l'État."
+    },
+    {
+      "id": "droits_004",
+      "q": "Est-il toujours possible de divorcer ?",
+      "options": [
+        "Oui, mais seulement si les deux époux sont d'accord.",
+        "Non, sauf autorisation religieuse.",
+        "Oui, le divorce est possible et encadré par la loi.",
+        "Non, le mariage est indissoluble."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le divorce est un droit encadré par la loi, possible même si l'autre époux refuse. Plusieurs procédures existent."
+    }
+  ]
+}

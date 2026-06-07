@@ -1,0 +1,608 @@
+{
+  "id": "examen_04",
+  "titre": "Examen blanc n°4",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "institutions_005",
+      "q": "Que garantit l’État de droit ?",
+      "options": [
+        "La protection des droits fondamentaux des citoyens.",
+        "La suppression des libertés individuelles.",
+        "Le pouvoir absolu du gouvernement.",
+        "L'absence de contrôle des juges."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État de droit garantit la protection des droits fondamentaux et l'égalité devant la justice. Il limite le pouvoir par la loi."
+    },
+    {
+      "id": "droits_006",
+      "q": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+      "options": [
+        "\"Les hommes naissent et demeurent libres et égaux en droits.\"",
+        "« Travailler plus pour gagner plus. »",
+        "« Liberté, Égalité, Fraternité. »",
+        "« L'État, c'est moi. »"
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'article 1er de la DDHC de 1789 énonce : « Les hommes naissent et demeurent libres et égaux en droits. » C'est un texte fondateur."
+    },
+    {
+      "id": "valeurs_007",
+      "q": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie […]\"",
+      "options": [
+        "La victoire est proche",
+        "La liberté nous appelle",
+        "Le jour de gloire est arrivé",
+        "Le drapeau est levé"
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le premier vers de la Marseillaise est « Allons enfants de la patrie, le jour de gloire est arrivé ». Il fut composé par Rouget de Lisle en 1792."
+    },
+    {
+      "id": "droits_001",
+      "q": "À quelle liberté la PMA fait-elle référence ?",
+      "options": [
+        "La liberté d'expression.",
+        "La liberté du commerce.",
+        "La liberté de circulation.",
+        "La liberté de fonder une famille."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La PMA renvoie à la liberté de fonder une famille. Elle aide les couples ou les femmes à avoir des enfants."
+    },
+    {
+      "id": "institutions_045",
+      "q": "Où est le siège de la Commission européenne ?",
+      "options": [
+        "Francfort",
+        "Bruxelles",
+        "Luxembourg",
+        "Strasbourg"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Commission européenne a son siège à Bruxelles. Le Parlement, lui, siège à Strasbourg."
+    },
+    {
+      "id": "institutions_046",
+      "q": "Quel État n'est pas membre de l'Union européenne ?",
+      "options": [
+        "La Pologne.",
+        "L'Allemagne.",
+        "L'Espagne.",
+        "La Norvège."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Norvège et la Suisse ne sont pas membres de l'Union européenne. Le Royaume-Uni en est sorti en 2020."
+    },
+    {
+      "id": "histoire_020",
+      "q": "Que fête-t-on le 8 mai ?",
+      "options": [
+        "La prise de la Bastille.",
+        "La Victoire de 1945.",
+        "L'armistice de 1918.",
+        "La fête du Travail."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le 8 mai célèbre la victoire de 1945 et la fin de la Seconde Guerre mondiale en Europe. C'est la capitulation de l'Allemagne nazie."
+    },
+    {
+      "id": "societe_013",
+      "q": "L'inscription à l'Assurance maladie est :",
+      "options": [
+        "Réservée aux personnes nées en France.",
+        "Facultative et entièrement payante.",
+        "Interdite aux étrangers.",
+        "Obligatoire pour toute personne résidant en France."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'inscription à l'Assurance maladie est obligatoire pour toute personne résidant en France de façon stable et régulière. Elle ouvre droit au remboursement des soins."
+    },
+    {
+      "id": "droits_002",
+      "q": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+      "options": [
+        "Au nom de la sécurité publique et de la protection des droits d'autrui.",
+        "Au nom des intérêts d'un parti politique.",
+        "Pour augmenter ses recettes fiscales.",
+        "Selon l'humeur des dirigeants."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État ne peut restreindre les droits que pour la sécurité publique, la santé publique ou la protection d'autrui. Ces limites doivent être prévues par la loi."
+    },
+    {
+      "id": "institutions_024",
+      "q": "Qui dirige la commune ?",
+      "options": [
+        "Le député de la circonscription.",
+        "Le préfet.",
+        "Le Maire.",
+        "Le président du département."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le maire dirige la commune, assisté du conseil municipal. Il est élu par ce conseil après les élections municipales."
+    },
+    {
+      "id": "valeurs_022",
+      "q": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+      "options": [
+        "Que les différences d'opinion sont interdites.",
+        "Que chacun possède les mêmes biens.",
+        "Que tous les citoyens ont les mêmes droits et les mêmes devoirs.",
+        "Que tout le monde gagne le même salaire."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'égalité signifie que tous les citoyens ont les mêmes droits et devoirs et sont égaux devant la loi. Elle ne signifie pas l'uniformité des situations."
+    },
+    {
+      "id": "histoire_008",
+      "q": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+      "options": [
+        "1848",
+        "1962",
+        "1945",
+        "1958"
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Président est élu au suffrage universel direct depuis la réforme de 1962, voulue par le général de Gaulle. Avant, il était élu par un collège."
+    },
+    {
+      "id": "histoire_004",
+      "q": "Lequel de ces personnages a un lien avec la République française ?",
+      "options": [
+        "Napoléon Bonaparte.",
+        "Louis XIV.",
+        "Charles de Gaulle.",
+        "Jules César."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Charles de Gaulle, fondateur de la Ve République en 1958, est une grande figure de la République. Il avait lancé l'appel du 18 juin 1940."
+    },
+    {
+      "id": "droits_037",
+      "q": "Qui veille au maintien de l’ordre public ?",
+      "options": [
+        "Les juges des tribunaux.",
+        "Les maires seuls.",
+        "Les députés.",
+        "Les forces de l'ordre (police et gendarmerie)."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les forces de l'ordre — police nationale et gendarmerie — veillent au maintien de l'ordre public. Elles font respecter la loi sur le terrain."
+    },
+    {
+      "id": "valeurs_035",
+      "q": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+      "options": [
+        "Uniquement face à un public religieux.",
+        "Non, ils peuvent afficher leurs convictions.",
+        "Oui, ils doivent faire preuve de neutralité.",
+        "Seulement s'ils le souhaitent."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un agent public doit être neutre pour traiter tous les usagers à égalité. La neutralité s'impose dans l'exercice de ses fonctions."
+    },
+    {
+      "id": "societe_029",
+      "q": "Quel motif d'absence est accepté par l'école ?",
+      "options": [
+        "Une simple envie de rester à la maison.",
+        "Des vacances hors des congés scolaires.",
+        "Faire les courses en famille.",
+        "Une maladie de l'enfant."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Une maladie de l'enfant ou un événement familial grave sont des motifs d'absence acceptés. Les absences doivent être justifiées auprès de l'école."
+    },
+    {
+      "id": "droits_021",
+      "q": "Jeter un mégot par terre est :",
+      "options": [
+        "Une infraction et une atteinte à l'environnement.",
+        "Un droit dans l'espace public.",
+        "Une pratique encouragée par la loi.",
+        "Un geste anodin et autorisé."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Jeter un mégot par terre est une infraction punie d'une amende. C'est une atteinte à l'environnement."
+    },
+    {
+      "id": "droits_009",
+      "q": "Que garantit la liberté de la presse ?",
+      "options": [
+        "L'obligation pour l'État de valider chaque article.",
+        "La liberté de publier des informations sans contrôle préalable.",
+        "Le droit de publier de fausses informations.",
+        "Le droit de diffamer librement."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de la presse permet aux journalistes d'informer sans contrôle préalable de l'État. Elle reste limitée par la loi (diffamation, injure)."
+    },
+    {
+      "id": "societe_023",
+      "q": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "options": [
+        "Le baccalauréat.",
+        "Le CAP.",
+        "La licence.",
+        "Le brevet des collèges."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin du collège, les élèves passent le brevet des collèges (DNB). Le baccalauréat, lui, sanctionne la fin du lycée."
+    },
+    {
+      "id": "droits_010",
+      "q": "Que prévoit la Charte de l'environnement ?",
+      "options": [
+        "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+        "L'obligation d'utiliser une voiture électrique.",
+        "L'interdiction de toute activité industrielle.",
+        "Le droit de polluer si l'on paie une taxe."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de l'environnement (2004) garantit le droit de vivre dans un environnement sain et le devoir de le protéger. Elle a valeur constitutionnelle."
+    },
+    {
+      "id": "societe_002",
+      "q": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "options": [
+        "Le rectorat directement.",
+        "Le tribunal.",
+        "La mairie.",
+        "La préfecture."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents inscrivent leur enfant à l'école publique auprès de la mairie. La commune gère les écoles maternelles et primaires."
+    },
+    {
+      "id": "histoire_031",
+      "q": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+      "options": [
+        "L'Italie.",
+        "L'Espagne.",
+        "L'Allemagne.",
+        "Le Royaume-Uni."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Au nord-est, la France a une frontière avec l'Allemagne, la Belgique et le Luxembourg. L'Espagne est au sud."
+    },
+    {
+      "id": "valeurs_027",
+      "q": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "options": [
+        "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+        "Pour interdire toute croyance aux élèves.",
+        "Pour imposer une religion commune.",
+        "Pour favoriser les élèves non croyants."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité à l'école garantit la neutralité de l'enseignement et l'égalité des élèves. Elle protège les enfants de toute pression religieuse."
+    },
+    {
+      "id": "societe_008",
+      "q": "Où peut-on déposer un lave-vaisselle cassé ?",
+      "options": [
+        "Sur le trottoir devant chez soi.",
+        "Dans une poubelle classique.",
+        "Dans la nature.",
+        "Auprès d'un centre de recyclage ou d'une déchetterie."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un appareil cassé se dépose en déchetterie ou dans un centre de recyclage. Cela permet de recycler les matériaux et d'éviter la pollution."
+    },
+    {
+      "id": "droits_014",
+      "q": "Quel texte est le plus difficile à modifier ?",
+      "options": [
+        "Un décret.",
+        "Un arrêté municipal.",
+        "Une circulaire ministérielle.",
+        "La Constitution."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Constitution est le texte le plus difficile à modifier : sa révision suit une procédure spéciale. C'est la norme suprême."
+    },
+    {
+      "id": "societe_001",
+      "q": "Quel mariage est reconnu par l'État ?",
+      "options": [
+        "Le simple concubinage.",
+        "Le mariage religieux uniquement.",
+        "Le mariage célébré à l'étranger sans transcription.",
+        "Le mariage civil célébré à la mairie."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Seul le mariage civil célébré à la mairie est reconnu par l'État. Un éventuel mariage religieux ne peut avoir lieu qu'après."
+    },
+    {
+      "id": "institutions_016",
+      "q": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+      "options": [
+        "Il reçoit seulement un avertissement.",
+        "Rien : les ministres sont au-dessus des lois.",
+        "Il bénéficie d'une immunité totale à vie.",
+        "Il peut être démis de ses fonctions et poursuivi en justice."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un ministre qui ne respecte pas la loi peut être démis et poursuivi en justice. Nul n'est au-dessus de la loi."
+    },
+    {
+      "id": "valeurs_014",
+      "q": "Peut-on brûler publiquement un drapeau français ?",
+      "options": [
+        "Oui, c'est autorisé en privé comme en public.",
+        "Oui, lors des manifestations.",
+        "Oui, au nom de la liberté d'expression.",
+        "Non, cela constitue une offense au symbole national."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Brûler le drapeau français en public est un délit puni par la loi. Le drapeau tricolore est un symbole national à respecter."
+    },
+    {
+      "id": "valeurs_013",
+      "q": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+      "options": [
+        "Les impôts sont facultatifs en France.",
+        "Les impôts servent au financement des services publics.",
+        "Les impôts sont reversés directement aux entreprises privées.",
+        "Les impôts financent uniquement le salaire du Président."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les impôts financent les services publics : écoles, hôpitaux, police, justice. Leur paiement est obligatoire pour tous."
+    },
+    {
+      "id": "institutions_033",
+      "q": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "options": [
+        "2000",
+        "1992",
+        "2002",
+        "1999"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pièces et billets en euros circulent depuis 2002. L'euro existait comme monnaie de compte depuis 1999."
+    },
+    {
+      "id": "valeurs_004",
+      "q": "La liberté de circulation permet à toute personne de :",
+      "options": [
+        "Conduire un véhicule sans permis.",
+        "Se déplacer librement partout en France.",
+        "Franchir les frontières sans aucun document.",
+        "Entrer dans toute propriété privée sans autorisation."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de circulation permet de se déplacer librement sur le territoire. Elle ne dispense pas du respect de la propriété privée ni des règles de circulation."
+    },
+    {
+      "id": "institutions_010",
+      "q": "Qui nomme le Premier ministre ?",
+      "options": [
+        "Le Président de la République.",
+        "Le Sénat.",
+        "L'Assemblée nationale.",
+        "Les citoyens par un vote direct."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Premier ministre est nommé par le Président de la République (article 8). Le Président met aussi fin à ses fonctions."
+    },
+    {
+      "id": "societe_010",
+      "q": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+      "options": [
+        "Seuls les fonctionnaires sont remboursés.",
+        "L'Assurance Maladie rembourse une partie des frais de santé.",
+        "Les soins sont entièrement gratuits pour tous, sans exception.",
+        "Le patient paie toujours la totalité, sans remboursement."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Assurance Maladie (Sécurité sociale) rembourse une partie des frais de santé. Une complémentaire santé peut couvrir le reste."
+    },
+    {
+      "id": "histoire_002",
+      "q": "Quel roi de France a été exécuté pendant la Révolution française ?",
+      "options": [
+        "Louis XVI.",
+        "Louis XV.",
+        "Louis XIV.",
+        "Henri IV."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Louis XVI a été guillotiné en 1793 pendant la Révolution française. C'est la fin de la monarchie absolue."
+    },
+    {
+      "id": "societe_028",
+      "q": "À l'école, il est interdit aux parents de :",
+      "options": [
+        "Voter pour leurs représentants.",
+        "Faire du bruit dans les couloirs pendant les heures de classe.",
+        "Rencontrer les enseignants sur rendez-vous.",
+        "S'informer des résultats de leur enfant."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Il est interdit aux parents de perturber les cours ou de faire du bruit dans l'établissement. En revanche, ils peuvent rencontrer les enseignants sur rendez-vous."
+    },
+    {
+      "id": "histoire_028",
+      "q": "Quelle est la population approximative de la France en 2025 ?",
+      "options": [
+        "Environ 100 millions d'habitants.",
+        "Environ 70 millions d'habitants.",
+        "Environ 30 millions d'habitants.",
+        "Environ 200 millions d'habitants."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France compte environ 68 à 70 millions d'habitants en 2025. C'est l'un des pays les plus peuplés de l'Union européenne."
+    },
+    {
+      "id": "histoire_019",
+      "q": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+      "options": [
+        "L'Afrique.",
+        "L'Amérique du Nord.",
+        "L'Antarctique.",
+        "L'Océanie."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La décolonisation française après 1945 a surtout concerné l'Afrique. De nombreux pays africains sont devenus indépendants vers 1960."
+    },
+    {
+      "id": "institutions_040",
+      "q": "Quel est l'hymne de l'Union européenne ?",
+      "options": [
+        "L'Ode à la Joie.",
+        "Le God Save the King.",
+        "La Marseillaise.",
+        "L'Hymne à l'amour."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'hymne européen est l'Ode à la Joie, extraite de la 9e symphonie de Beethoven. Il est joué sans paroles."
+    },
+    {
+      "id": "valeurs_033",
+      "q": "Que peut faire un usager du service public dans une mairie ?",
+      "options": [
+        "Régler ses amendes de stationnement.",
+        "S'inscrire sur les listes électorales.",
+        "Déposer une plainte pénale.",
+        "Obtenir un permis de conduire."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "En mairie, on peut s'inscrire sur les listes électorales, se marier ou déclarer une naissance. Le permis ou la plainte relèvent d'autres administrations."
+    },
+    {
+      "id": "histoire_047",
+      "q": "Qui était un célèbre musicien français ?",
+      "options": [
+        "Ludwig van Beethoven, allemand.",
+        "Wolfgang Mozart, autrichien.",
+        "Claude Debussy.",
+        "Johann Strauss, autrichien."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+    }
+  ]
+}

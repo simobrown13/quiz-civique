@@ -1,0 +1,737 @@
+[
+  {
+    "id": "histoire_001",
+    "q": "Quel était le surnom de Louis XIV ?",
+    "options": [
+      "Le Bien-Aimé.",
+      "Le Roi de Fer.",
+      "Le Roi Soleil.",
+      "Le Roi Lune."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Louis XIV était surnommé le Roi Soleil. Il a régné de 1643 à 1715 et fait construire le château de Versailles."
+  },
+  {
+    "id": "histoire_002",
+    "q": "Quel roi de France a été exécuté pendant la Révolution française ?",
+    "options": [
+      "Louis XVI.",
+      "Louis XV.",
+      "Louis XIV.",
+      "Henri IV."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Louis XVI a été guillotiné en 1793 pendant la Révolution française. C'est la fin de la monarchie absolue."
+  },
+  {
+    "id": "histoire_003",
+    "q": "En quelle année Napoléon Ier est-il devenu empereur ?",
+    "options": [
+      "1815",
+      "1804",
+      "1789",
+      "1799"
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Napoléon Ier est devenu empereur des Français en 1804. Son règne s'achève en 1815 après Waterloo."
+  },
+  {
+    "id": "histoire_004",
+    "q": "Lequel de ces personnages a un lien avec la République française ?",
+    "options": [
+      "Napoléon Bonaparte.",
+      "Louis XIV.",
+      "Charles de Gaulle.",
+      "Jules César."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Charles de Gaulle, fondateur de la Ve République en 1958, est une grande figure de la République. Il avait lancé l'appel du 18 juin 1940."
+  },
+  {
+    "id": "histoire_005",
+    "q": "De quand date l'appel à la résistance du général de Gaulle ?",
+    "options": [
+      "18 juin 1940.",
+      "Le 8 mai 1945.",
+      "Le 11 novembre 1918.",
+      "Le 14 juillet 1789."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le général de Gaulle a lancé son appel à la résistance le 18 juin 1940, depuis Londres. Il marque le début de la France libre."
+  },
+  {
+    "id": "histoire_006",
+    "q": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+    "options": [
+      "Pour glorifier la guerre.",
+      "Pour comprendre l'antisémitisme et prévenir de futures atrocités.",
+      "Parce que c'est une simple anecdote historique.",
+      "Pour désigner des coupables aujourd'hui."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Shoah est étudiée pour comprendre l'antisémitisme et empêcher que de telles atrocités se reproduisent. C'est un devoir de mémoire."
+  },
+  {
+    "id": "histoire_007",
+    "q": "Quel pays a été colonisé par la France ?",
+    "options": [
+      "L'Algérie.",
+      "Le Japon.",
+      "La Norvège.",
+      "Le Brésil."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Algérie, le Sénégal, le Vietnam (Indochine) ou Madagascar ont été colonisés par la France. Le Japon ou le Brésil ne l'ont jamais été."
+  },
+  {
+    "id": "histoire_008",
+    "q": "Depuis quand les Français élisent-ils le président de la République au suffrage universel direct ?",
+    "options": [
+      "1848",
+      "1962",
+      "1945",
+      "1958"
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Président est élu au suffrage universel direct depuis la réforme de 1962, voulue par le général de Gaulle. Avant, il était élu par un collège."
+  },
+  {
+    "id": "histoire_009",
+    "q": "Quelle est la première étape de la construction européenne en 1951 ?",
+    "options": [
+      "La signature du traité de Maastricht.",
+      "La création de l'euro.",
+      "La création de l'ONU.",
+      "La création de la Communauté européenne du charbon et de l'acier (CECA)."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La première étape de la construction européenne est la CECA (1951), qui met en commun le charbon et l'acier de six pays. Elle découle de la déclaration Schuman."
+  },
+  {
+    "id": "histoire_010",
+    "q": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+    "options": [
+      "François Mitterrand",
+      "Jacques Chirac",
+      "Valéry Giscard d'Estaing",
+      "Charles de Gaulle"
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La peine de mort a été abolie en 1981 sous la présidence de François Mitterrand. La loi fut portée par Robert Badinter."
+  },
+  {
+    "id": "histoire_011",
+    "q": "Quel régime politique a été mis en place pendant la Révolution française en 1792 ?",
+    "options": [
+      "La Restauration.",
+      "La Cinquième République.",
+      "L'Empire.",
+      "La Première République."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Première République est proclamée en 1792, pendant la Révolution. Elle met fin à la monarchie."
+  },
+  {
+    "id": "histoire_012",
+    "q": "Qui était une figure de la Résistance française pendant la Seconde Guerre mondiale ?",
+    "options": [
+      "Louis XIV.",
+      "Napoléon Bonaparte.",
+      "Jules Ferry.",
+      "Jean Moulin."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Jean Moulin est une grande figure de la Résistance française. Il a unifié les mouvements de résistance avant d'être arrêté en 1943."
+  },
+  {
+    "id": "histoire_013",
+    "q": "En 1944, qu'est-ce qui a changé pour les femmes ?",
+    "options": [
+      "Rien n'a changé pour elles.",
+      "Elles ont perdu le droit de travailler.",
+      "Elles ont obtenu le droit de conduire.",
+      "Elles ont obtenu le droit de vote."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "En 1944, les femmes ont obtenu le droit de vote et celui d'être élues. Elles ont voté pour la première fois en 1945."
+  },
+  {
+    "id": "histoire_014",
+    "q": "Quelle organisation internationale a été créée en 1945 après la Seconde Guerre mondiale ?",
+    "options": [
+      "L'OTAN.",
+      "L'Union européenne.",
+      "L'Organisation des Nations Unies (ONU).",
+      "La Société des Nations."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Organisation des Nations Unies (ONU) a été créée en 1945, après la Seconde Guerre mondiale. Elle vise à maintenir la paix dans le monde."
+  },
+  {
+    "id": "histoire_015",
+    "q": "Quelle peine a été supprimée en 1981 ?",
+    "options": [
+      "Le travail des enfants.",
+      "La prison à perpétuité.",
+      "La peine de mort.",
+      "Le service militaire."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La peine de mort a été supprimée en 1981. La France l'a définitivement abolie cette année-là."
+  },
+  {
+    "id": "histoire_016",
+    "q": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+    "options": [
+      "1999",
+      "1992",
+      "2002",
+      "2000"
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'euro est devenu la monnaie utilisée en France en 2002, avec les pièces et billets. Il existait comme monnaie de compte depuis 1999."
+  },
+  {
+    "id": "histoire_017",
+    "q": "En quelle année a commencé la Première Guerre mondiale ?",
+    "options": [
+      "1870",
+      "1914",
+      "1918",
+      "1939"
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Première Guerre mondiale a commencé en 1914. Elle s'est terminée en 1918."
+  },
+  {
+    "id": "histoire_018",
+    "q": "Où a eu lieu le débarquement en 1944 ?",
+    "options": [
+      "Dans le Nord, près de Calais.",
+      "Sur la côte belge.",
+      "En Normandie.",
+      "En Bretagne."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le débarquement allié du 6 juin 1944 a eu lieu sur les plages de Normandie. Il marque le début de la libération de l'Europe."
+  },
+  {
+    "id": "histoire_019",
+    "q": "Quel continent a été le plus concerné par la décolonisation française après la Seconde Guerre mondiale ?",
+    "options": [
+      "L'Afrique.",
+      "L'Amérique du Nord.",
+      "L'Antarctique.",
+      "L'Océanie."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La décolonisation française après 1945 a surtout concerné l'Afrique. De nombreux pays africains sont devenus indépendants vers 1960."
+  },
+  {
+    "id": "histoire_020",
+    "q": "Que fête-t-on le 8 mai ?",
+    "options": [
+      "La prise de la Bastille.",
+      "La Victoire de 1945.",
+      "L'armistice de 1918.",
+      "La fête du Travail."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le 8 mai célèbre la victoire de 1945 et la fin de la Seconde Guerre mondiale en Europe. C'est la capitulation de l'Allemagne nazie."
+  },
+  {
+    "id": "histoire_021",
+    "q": "Quelle mer ou océan borde la France métropolitaine ?",
+    "options": [
+      "L'océan Indien.",
+      "L'océan Pacifique.",
+      "La mer Noire.",
+      "L'océan Atlantique."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France métropolitaine est bordée par l'océan Atlantique, la Manche, la mer du Nord et la mer Méditerranée. Le Pacifique borde des territoires d'outre-mer."
+  },
+  {
+    "id": "histoire_022",
+    "q": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+    "options": [
+      "Les Pays-Bas.",
+      "La Suisse.",
+      "Le Portugal.",
+      "Le Royaume-Uni."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France métropolitaine a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, Monaco, l'Espagne et Andorre. Le Portugal n'en fait pas partie."
+  },
+  {
+    "id": "histoire_023",
+    "q": "Quelle ville française est un port maritime ?",
+    "options": [
+      "Lyon.",
+      "Marseille.",
+      "Toulouse.",
+      "Strasbourg."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Marseille, Le Havre et Bordeaux sont des ports maritimes. Lyon ou Toulouse sont des villes de l'intérieur."
+  },
+  {
+    "id": "histoire_024",
+    "q": "Quelle mer se situe entre la France et l'Angleterre ?",
+    "options": [
+      "La mer Méditerranée.",
+      "La Manche.",
+      "La mer du Nord.",
+      "La mer Baltique."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Manche sépare la France de l'Angleterre. Le tunnel sous la Manche relie les deux pays."
+  },
+  {
+    "id": "histoire_025",
+    "q": "Qu'est ce que la France d'outre-mer ?",
+    "options": [
+      "Les pays étrangers alliés de la France.",
+      "Les anciennes colonies devenues indépendantes.",
+      "L'ensemble des territoires français situés hors de l'Europe.",
+      "Les régions frontalières de la métropole."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France d'outre-mer regroupe les territoires français situés hors d'Europe (Guadeloupe, Réunion, etc.). Ils font partie de la République."
+  },
+  {
+    "id": "histoire_026",
+    "q": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+    "options": [
+      "Les Pyrénées.",
+      "Le Jura.",
+      "Le Massif central.",
+      "Les Alpes."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les Pyrénées forment la frontière naturelle entre la France et l'Espagne. Les Alpes, elles, séparent la France de l'Italie."
+  },
+  {
+    "id": "histoire_027",
+    "q": "Quelle île française se trouve dans l'océan Indien ?",
+    "options": [
+      "La Réunion.",
+      "La Corse.",
+      "La Martinique.",
+      "La Guadeloupe."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Réunion et Mayotte sont des îles françaises de l'océan Indien. La Guadeloupe et la Martinique se trouvent dans les Antilles."
+  },
+  {
+    "id": "histoire_028",
+    "q": "Quelle est la population approximative de la France en 2025 ?",
+    "options": [
+      "Environ 100 millions d'habitants.",
+      "Environ 70 millions d'habitants.",
+      "Environ 30 millions d'habitants.",
+      "Environ 200 millions d'habitants."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France compte environ 68 à 70 millions d'habitants en 2025. C'est l'un des pays les plus peuplés de l'Union européenne."
+  },
+  {
+    "id": "histoire_029",
+    "q": "Quel fleuve traverse Paris ?",
+    "options": [
+      "La Loire.",
+      "Le Rhône.",
+      "La Seine.",
+      "La Garonne."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Seine traverse Paris. La Loire est le plus long fleuve de France mais ne passe pas par la capitale."
+  },
+  {
+    "id": "histoire_030",
+    "q": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+    "options": [
+      "Le Danemark.",
+      "La Grèce.",
+      "L'Italie.",
+      "Le Portugal."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Italie, l'Allemagne, l'Espagne, la Belgique, la Suisse et le Luxembourg partagent une frontière terrestre avec la France. Le Portugal n'en a pas."
+  },
+  {
+    "id": "histoire_031",
+    "q": "Quel pays a une frontière avec la France métropolitaine au nord-est ?",
+    "options": [
+      "L'Italie.",
+      "L'Espagne.",
+      "L'Allemagne.",
+      "Le Royaume-Uni."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Au nord-est, la France a une frontière avec l'Allemagne, la Belgique et le Luxembourg. L'Espagne est au sud."
+  },
+  {
+    "id": "histoire_032",
+    "q": "Où se trouvent les principales activités économiques en France ?",
+    "options": [
+      "Essentiellement en outre-mer.",
+      "Surtout dans les zones rurales isolées.",
+      "Principalement en haute montagne.",
+      "Principalement dans les grandes métropoles et les zones industrielles."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les principales activités économiques se concentrent dans les grandes métropoles (Paris, Lyon, Marseille) et les zones industrielles. Ce sont des pôles d'emploi."
+  },
+  {
+    "id": "histoire_033",
+    "q": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+    "options": [
+      "La Russie.",
+      "La France.",
+      "Le Canada.",
+      "L'Allemagne."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France est le pays qui attire le plus de visiteurs chaque année. C'est la première destination touristique mondiale."
+  },
+  {
+    "id": "histoire_034",
+    "q": "Où habite la majorité des Français ?",
+    "options": [
+      "Dans les villages de montagne.",
+      "Principalement à l'étranger.",
+      "Sur les îles d'outre-mer.",
+      "Dans les grandes villes et leurs périphéries (zones urbaines)."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La majorité des Français habitent dans les zones urbaines : grandes villes et leurs périphéries. La population est très urbanisée."
+  },
+  {
+    "id": "histoire_035",
+    "q": "Quelle région est la plus peuplée ?",
+    "options": [
+      "La Corse.",
+      "L'Île-de-France.",
+      "La Bretagne.",
+      "La Bourgogne-Franche-Comté."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Île-de-France, autour de Paris, est la région la plus peuplée. Elle concentre une grande partie de l'activité économique."
+  },
+  {
+    "id": "histoire_036",
+    "q": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+    "options": [
+      "Guéret.",
+      "Vannes.",
+      "Aurillac.",
+      "Paris."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Paris, Marseille, Lyon, Toulouse ou Lille comptent parmi les plus grandes métropoles françaises. Les petites villes comme Guéret n'en font pas partie."
+  },
+  {
+    "id": "histoire_037",
+    "q": "Lequel de ces départements de France est le plus touristique ?",
+    "options": [
+      "La Lozère.",
+      "La Creuse.",
+      "La Meuse.",
+      "Paris."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Paris, les Alpes-Maritimes, la Savoie ou le Var sont des départements très touristiques. La Creuse ou la Lozère le sont beaucoup moins."
+  },
+  {
+    "id": "histoire_038",
+    "q": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+    "options": [
+      "Lors des Journées Européennes du Patrimoine.",
+      "Le 1er janvier de chaque année.",
+      "Pendant les vacances de Noël.",
+      "Tous les jours fériés."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les Journées Européennes du Patrimoine, en septembre, permettent de visiter gratuitement de nombreux lieux culturels. Monuments et musées ouvrent leurs portes."
+  },
+  {
+    "id": "histoire_039",
+    "q": "Combien de personnes parlent français dans le monde ?",
+    "options": [
+      "Environ 1 milliard.",
+      "Environ 10 millions.",
+      "Environ 300 millions.",
+      "Environ 50 millions."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Environ 300 millions de personnes parlent français dans le monde. La francophonie est présente sur les cinq continents."
+  },
+  {
+    "id": "histoire_040",
+    "q": "Qui était Marguerite Yourcenar ?",
+    "options": [
+      "Une femme politique.",
+      "Une chanteuse.",
+      "Une scientifique.",
+      "Une écrivaine."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Marguerite Yourcenar était une écrivaine. Elle fut la première femme élue à l'Académie française, en 1980."
+  },
+  {
+    "id": "histoire_041",
+    "q": "Quel peintre est français ?",
+    "options": [
+      "Pablo Picasso, espagnol.",
+      "Claude Monet.",
+      "Léonard de Vinci, italien.",
+      "Vincent van Gogh, néerlandais."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Claude Monet, Renoir, Cézanne ou Degas sont des peintres français. Monet est une figure majeure de l'impressionnisme."
+  },
+  {
+    "id": "histoire_042",
+    "q": "Quel musée est situé à Paris ?",
+    "options": [
+      "Le musée du Louvre.",
+      "Le musée du Prado, à Madrid.",
+      "Les Offices, à Florence.",
+      "Le British Museum, à Londres."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Louvre, le musée d'Orsay et le Centre Pompidou sont à Paris. Le Louvre abrite notamment la Joconde."
+  },
+  {
+    "id": "histoire_043",
+    "q": "Qui était Auguste Rodin ?",
+    "options": [
+      "Un compositeur.",
+      "Un sculpteur.",
+      "Un écrivain.",
+      "Un homme politique."
+    ],
+    "answer": 1,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Auguste Rodin était un sculpteur. Il est célèbre pour Le Penseur et Le Baiser."
+  },
+  {
+    "id": "histoire_044",
+    "q": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+    "options": [
+      "Première.",
+      "Vingtième.",
+      "Cinquième.",
+      "Dixième."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le français figure parmi les cinq langues les plus parlées dans le monde. Il est langue officielle dans de nombreux pays."
+  },
+  {
+    "id": "histoire_045",
+    "q": "Quelle cathédrale célèbre a été en partie détruite par un incendie en 2019 ?",
+    "options": [
+      "La cathédrale Notre-Dame de Paris.",
+      "La basilique du Sacré-Cœur.",
+      "La cathédrale de Reims.",
+      "La cathédrale de Chartres."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La cathédrale Notre-Dame de Paris a été en partie détruite par un incendie en 2019. Sa restauration s'est achevée en 2024."
+  },
+  {
+    "id": "histoire_046",
+    "q": "Qui était une écrivaine française célèbre ?",
+    "options": [
+      "Agatha Christie, britannique.",
+      "Marie Curie, scientifique.",
+      "Victor Hugo, un homme.",
+      "Simone de Beauvoir."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Simone de Beauvoir, George Sand, Colette ou Marguerite Duras sont des écrivaines françaises. Simone de Beauvoir a écrit Le Deuxième Sexe."
+  },
+  {
+    "id": "histoire_047",
+    "q": "Qui était un célèbre musicien français ?",
+    "options": [
+      "Ludwig van Beethoven, allemand.",
+      "Wolfgang Mozart, autrichien.",
+      "Claude Debussy.",
+      "Johann Strauss, autrichien."
+    ],
+    "answer": 2,
+    "theme": "histoire",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+  },
+  {
+    "id": "histoire_048",
+    "q": "Qui était Auguste Renoir ?",
+    "options": [
+      "Un écrivain.",
+      "Un sculpteur.",
+      "Un musicien.",
+      "Un peintre."
+    ],
+    "answer": 3,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Auguste Renoir était un peintre impressionniste. Il est connu pour ses scènes de la vie parisienne."
+  },
+  {
+    "id": "histoire_049",
+    "q": "Quelle fête est française ?",
+    "options": [
+      "Le 14 juillet.",
+      "Halloween.",
+      "Le Carnaval de Rio.",
+      "Thanksgiving."
+    ],
+    "answer": 0,
+    "theme": "histoire",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le 14 juillet, le 8 mai, le 11 novembre ou le 1er mai sont des fêtes françaises. Le 14 juillet est la fête nationale."
+  }
+]

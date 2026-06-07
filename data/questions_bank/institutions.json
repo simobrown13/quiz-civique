@@ -1,0 +1,752 @@
+[
+  {
+    "id": "institutions_001",
+    "q": "Qu'est-ce que l'État de droit ?",
+    "options": [
+      "Un régime sans constitution ni tribunaux.",
+      "Un système où les gouvernants sont soumis aux lois.",
+      "Un système où le chef de l'État décide seul des lois.",
+      "Un pays où la police fait la loi."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Dans un État de droit, gouvernants comme citoyens sont soumis à la loi. Les droits fondamentaux y sont protégés."
+  },
+  {
+    "id": "institutions_002",
+    "q": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+    "options": [
+      "Il est jugé immédiatement comme un simple citoyen.",
+      "Il ne pourra jamais être jugé pour ces faits.",
+      "Il est automatiquement emprisonné sans procès.",
+      "Il pourra être jugé par la justice après la fin de son mandat."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Président bénéficie d'une immunité pendant son mandat. Il pourra être jugé par la justice une fois son mandat terminé."
+  },
+  {
+    "id": "institutions_003",
+    "q": "La loi est l'expression de :",
+    "options": [
+      "La volonté des juges.",
+      "La volonté des grandes entreprises.",
+      "La décision du Président seul.",
+      "La volonté du peuple."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La loi est l'expression de la volonté générale (article 6 de la DDHC). Elle est votée par les représentants du peuple."
+  },
+  {
+    "id": "institutions_004",
+    "q": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+    "options": [
+      "4 ans",
+      "6 ans",
+      "5 ans",
+      "7 ans"
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le maire et le conseil municipal sont élus pour 6 ans. Les élections municipales ont lieu tous les six ans."
+  },
+  {
+    "id": "institutions_005",
+    "q": "Que garantit l’État de droit ?",
+    "options": [
+      "La protection des droits fondamentaux des citoyens.",
+      "La suppression des libertés individuelles.",
+      "Le pouvoir absolu du gouvernement.",
+      "L'absence de contrôle des juges."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'État de droit garantit la protection des droits fondamentaux et l'égalité devant la justice. Il limite le pouvoir par la loi."
+  },
+  {
+    "id": "institutions_006",
+    "q": "Une personne peut-elle voter à la place d'une autre ?",
+    "options": [
+      "Non, c'est strictement impossible.",
+      "Oui, mais seulement pour un membre de sa famille.",
+      "Oui, librement et sans aucune formalité.",
+      "Oui, avec une procuration officielle."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "On peut voter à la place d'une autre uniquement avec une procuration officielle demandée à l'avance. Le vote reste personnel et secret."
+  },
+  {
+    "id": "institutions_007",
+    "q": "Est-ce que le vote est obligatoire ?",
+    "options": [
+      "Oui, pour toutes les élections nationales.",
+      "Oui, sous peine d'amende.",
+      "Non, c'est un droit et un devoir civique.",
+      "Oui, c'est obligatoire dès 16 ans."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le vote n'est pas obligatoire en France : c'est un droit et un devoir civique. S'abstenir n'est pas sanctionné."
+  },
+  {
+    "id": "institutions_008",
+    "q": "À la fin de son mandat, le président de la République peut-il décider de rester au pouvoir ?",
+    "options": [
+      "Oui, pour un mandat supplémentaire automatique.",
+      "Oui, s'il le décide lui-même.",
+      "Non, il doit obligatoirement être réélu par les citoyens.",
+      "Oui, avec l'accord du gouvernement."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "À la fin de son mandat de 5 ans, le Président doit se représenter et être réélu. De nouvelles élections sont organisées."
+  },
+  {
+    "id": "institutions_009",
+    "q": "Qui dirige l'action du Gouvernement ?",
+    "options": [
+      "Le Conseil constitutionnel.",
+      "Le Parlement.",
+      "Le Président de la République.",
+      "Le Premier ministre."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Premier ministre dirige l'action du Gouvernement (article 21 de la Constitution). Il met en œuvre la politique du pays."
+  },
+  {
+    "id": "institutions_010",
+    "q": "Qui nomme le Premier ministre ?",
+    "options": [
+      "Le Président de la République.",
+      "Le Sénat.",
+      "L'Assemblée nationale.",
+      "Les citoyens par un vote direct."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Premier ministre est nommé par le Président de la République (article 8). Le Président met aussi fin à ses fonctions."
+  },
+  {
+    "id": "institutions_011",
+    "q": "Quelle est l'organisation administrative de la France ?",
+    "options": [
+      "Entièrement centralisée, sans collectivités.",
+      "Décentralisée.",
+      "Confédérale.",
+      "Fédérale."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France est un État unitaire et décentralisé. Les communes, départements et régions gèrent des compétences locales."
+  },
+  {
+    "id": "institutions_012",
+    "q": "Qu'est-ce que le pouvoir législatif ? Le pouvoir :",
+    "options": [
+      "Le pouvoir de commander l'armée.",
+      "Le pouvoir d'appliquer les lois.",
+      "Le pouvoir de faire les lois.",
+      "Le pouvoir de juger les citoyens."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le pouvoir législatif est le pouvoir de discuter et de voter les lois. Il est exercé par le Parlement."
+  },
+  {
+    "id": "institutions_013",
+    "q": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+    "options": [
+      "Pour éviter la concentration du pouvoir et garantir les libertés.",
+      "Pour donner tout le pouvoir au gouvernement.",
+      "Pour supprimer le rôle des juges.",
+      "Pour accélérer les décisions du Président."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La séparation des pouvoirs évite leur concentration entre les mains d'une seule personne. Elle protège les libertés des citoyens."
+  },
+  {
+    "id": "institutions_014",
+    "q": "Qui sanctionne l'auteur d'un vol ?",
+    "options": [
+      "Le pouvoir judiciaire (les juges).",
+      "Le Président de la République.",
+      "L'Assemblée nationale.",
+      "Le maire de la commune."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "C'est le pouvoir judiciaire, par l'intermédiaire des juges, qui sanctionne l'auteur d'un vol. La justice juge les infractions."
+  },
+  {
+    "id": "institutions_015",
+    "q": "Quel est le rôle du gouvernement ?",
+    "options": [
+      "Voter les lois à la place du Parlement.",
+      "Juger les criminels.",
+      "Élire le Président de la République.",
+      "Exécuter les lois et diriger l'administration."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le gouvernement exécute les lois et dirige l'administration. Il met en œuvre la politique au quotidien."
+  },
+  {
+    "id": "institutions_016",
+    "q": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+    "options": [
+      "Il reçoit seulement un avertissement.",
+      "Rien : les ministres sont au-dessus des lois.",
+      "Il bénéficie d'une immunité totale à vie.",
+      "Il peut être démis de ses fonctions et poursuivi en justice."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Un ministre qui ne respecte pas la loi peut être démis et poursuivi en justice. Nul n'est au-dessus de la loi."
+  },
+  {
+    "id": "institutions_017",
+    "q": "Combien de députés composent l’Assemblée nationale ?",
+    "options": [
+      "500",
+      "925",
+      "348",
+      "577"
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Assemblée nationale compte 577 députés. Le Sénat, lui, compte 348 sénateurs."
+  },
+  {
+    "id": "institutions_018",
+    "q": "Qui peut voter aux élections en France ?",
+    "options": [
+      "Uniquement ceux qui paient des impôts.",
+      "Tous les habitants dès 16 ans.",
+      "Les citoyens français majeurs.",
+      "Toute personne résidant en France."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Seuls les citoyens français majeurs peuvent voter aux élections nationales. Il faut aussi être inscrit sur les listes électorales."
+  },
+  {
+    "id": "institutions_019",
+    "q": "Pour combien de temps sont élus les sénateurs ?",
+    "options": [
+      "5 ans",
+      "9 ans",
+      "6 ans",
+      "3 ans"
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les sénateurs sont élus pour 6 ans, au suffrage indirect. Le Sénat se renouvelle par moitié tous les trois ans."
+  },
+  {
+    "id": "institutions_020",
+    "q": "La séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "options": [
+      "Civil, militaire et religieux.",
+      "Législatif, exécutif, judiciaire.",
+      "Politique, économique et social.",
+      "National, régional et local."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les trois pouvoirs sont le législatif (faire les lois), l'exécutif (les appliquer) et le judiciaire (juger). Leur séparation est un principe démocratique."
+  },
+  {
+    "id": "institutions_021",
+    "q": "Est-ce que le président de la République a tous les pouvoirs ?",
+    "options": [
+      "Oui, il décide de tout seul.",
+      "Oui, il peut modifier les lois à sa guise.",
+      "Non, ses pouvoirs sont encadrés par la Constitution et la séparation des pouvoirs.",
+      "Oui, il contrôle directement la justice."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les pouvoirs du Président sont encadrés par la Constitution et la séparation des pouvoirs. Il partage le pouvoir avec le Parlement et les juges."
+  },
+  {
+    "id": "institutions_022",
+    "q": "Qui est le préfet ?",
+    "options": [
+      "Le maire de la préfecture.",
+      "Un juge nommé à vie.",
+      "Le représentant de l'État dans le département.",
+      "Le chef du conseil municipal."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le préfet est le représentant de l'État dans le département. Il y veille à la sécurité et à l'application des lois."
+  },
+  {
+    "id": "institutions_023",
+    "q": "Quelle condition est nécessaire pour voter aux élections ?",
+    "options": [
+      "Être majeur et citoyen français.",
+      "Résider en France depuis dix ans.",
+      "Avoir un emploi stable.",
+      "Payer la taxe d'habitation."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Pour voter, il faut être majeur, de nationalité française et inscrit sur les listes électorales. Aucune condition de revenu n'est exigée."
+  },
+  {
+    "id": "institutions_024",
+    "q": "Qui dirige la commune ?",
+    "options": [
+      "Le député de la circonscription.",
+      "Le préfet.",
+      "Le Maire.",
+      "Le président du département."
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le maire dirige la commune, assisté du conseil municipal. Il est élu par ce conseil après les élections municipales."
+  },
+  {
+    "id": "institutions_025",
+    "q": "Quel est le régime politique de la France aujourd'hui ?",
+    "options": [
+      "Une République démocratique.",
+      "Un empire.",
+      "Une monarchie absolue.",
+      "Une dictature militaire."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France est aujourd'hui une République démocratique et laïque. Le pouvoir y émane du peuple."
+  },
+  {
+    "id": "institutions_026",
+    "q": "Qu'est-ce que l'Hôtel de Matignon ?",
+    "options": [
+      "Le palais de justice de Paris.",
+      "Le siège de l'Assemblée nationale.",
+      "La résidence officielle du Président de la République.",
+      "Le siège du Premier ministre et du Gouvernement."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'Hôtel de Matignon est le siège du Premier ministre et du Gouvernement. La résidence du Président est le palais de l'Élysée."
+  },
+  {
+    "id": "institutions_027",
+    "q": "Le Parlement est composé :",
+    "options": [
+      "Des maires et des préfets.",
+      "Du Président et du Gouvernement.",
+      "Du Conseil constitutionnel et du Conseil d'État.",
+      "De l'Assemblée nationale et du Sénat."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Parlement est composé de l'Assemblée nationale (les députés) et du Sénat (les sénateurs). Ces deux chambres votent la loi."
+  },
+  {
+    "id": "institutions_028",
+    "q": "Quel est le rôle du président de la République ?",
+    "options": [
+      "Il vote les lois à l'Assemblée nationale.",
+      "Il est le Chef de l'État et des Armées.",
+      "Il juge les affaires pénales.",
+      "Il dirige le conseil municipal."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Président est le chef de l'État et le chef des armées. Il veille au respect de la Constitution."
+  },
+  {
+    "id": "institutions_029",
+    "q": "Quel est le rôle du Premier ministre ?",
+    "options": [
+      "Représenter la France à l'étranger comme chef de l'État.",
+      "Présider le Sénat.",
+      "Commander seul les armées.",
+      "Diriger le Gouvernement et sa politique."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Premier ministre dirige le Gouvernement et sa politique. Il applique les lois votées par le Parlement."
+  },
+  {
+    "id": "institutions_030",
+    "q": "Qui est le chef du Gouvernement ?",
+    "options": [
+      "Le ministre de l'Intérieur.",
+      "Le président de l'Assemblée nationale.",
+      "Le Président de la République.",
+      "Le Premier Ministre."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le chef du Gouvernement est le Premier ministre. Il dirige l'équipe des ministres."
+  },
+  {
+    "id": "institutions_031",
+    "q": "Combien y a-t-il de régions en France ?",
+    "options": [
+      "13",
+      "18",
+      "27",
+      "22"
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France compte 18 régions, dont 5 régions d'outre-mer. La métropole en compte 13."
+  },
+  {
+    "id": "institutions_032",
+    "q": "Quel est le rôle du Défenseur des droits ?",
+    "options": [
+      "Juger les criminels dangereux.",
+      "Diriger la police nationale.",
+      "Voter le budget de l'État.",
+      "Défendre les citoyens contre les abus de l'administration."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Défenseur des droits protège les citoyens contre les abus de l'administration et lutte contre les discriminations. C'est une autorité indépendante."
+  },
+  {
+    "id": "institutions_033",
+    "q": "Depuis quand l'euro est-elle la monnaie unique ?",
+    "options": [
+      "2000",
+      "1992",
+      "2002",
+      "1999"
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les pièces et billets en euros circulent depuis 2002. L'euro existait comme monnaie de compte depuis 1999."
+  },
+  {
+    "id": "institutions_034",
+    "q": "Quel est le rôle principal du département ?",
+    "options": [
+      "Gérer la défense du pays.",
+      "Organiser l'élection présidentielle.",
+      "Voter les lois nationales.",
+      "Gérer les routes départementales et l'action sociale."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le département gère surtout l'action sociale (RSA, aide aux personnes âgées), les collèges et les routes départementales. Il n'a pas de pouvoir législatif."
+  },
+  {
+    "id": "institutions_035",
+    "q": "Quel est le rôle principal des communes ?",
+    "options": [
+      "La gestion des services de proximité (état civil, écoles primaires).",
+      "Gérer la politique étrangère.",
+      "Diriger l'armée.",
+      "Voter le budget de l'Union européenne."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La commune gère les services de proximité : état civil, urbanisme, écoles maternelles et primaires. C'est l'échelon le plus proche des habitants."
+  },
+  {
+    "id": "institutions_036",
+    "q": "Combien de communes environ existe-t-il en France ?",
+    "options": [
+      "35 000",
+      "100 000",
+      "5 000",
+      "15 000"
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France compte environ 35 000 communes, l'un des nombres les plus élevés d'Europe. Chacune est dirigée par un maire."
+  },
+  {
+    "id": "institutions_037",
+    "q": "Quel traité concerne la construction de l'Union européenne ?",
+    "options": [
+      "La Charte des Nations unies.",
+      "Le Traité de Maastricht.",
+      "Le Traité de Versailles.",
+      "Le Pacte de Varsovie."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Traité de Maastricht (1992) a fondé l'Union européenne. Le Traité de Rome (1957) avait créé la communauté économique."
+  },
+  {
+    "id": "institutions_038",
+    "q": "Quel État a quitté l'Union européenne en 2020 ?",
+    "options": [
+      "L'Espagne",
+      "La Grèce",
+      "Le Royaume-Uni",
+      "L'Italie"
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le Royaume-Uni a quitté l'Union européenne en 2020 : c'est le Brexit. C'est le premier État à se retirer de l'Union."
+  },
+  {
+    "id": "institutions_039",
+    "q": "Quelle est la devise de l’Union européenne ?",
+    "options": [
+      "Unie dans la diversité.",
+      "Un pour tous, tous pour un.",
+      "Paix et prospérité.",
+      "Liberté, Égalité, Fraternité."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La devise de l'Union européenne est « Unie dans la diversité ». Elle souligne l'union des peuples tout en respectant leurs différences."
+  },
+  {
+    "id": "institutions_040",
+    "q": "Quel est l'hymne de l'Union européenne ?",
+    "options": [
+      "L'Ode à la Joie.",
+      "Le God Save the King.",
+      "La Marseillaise.",
+      "L'Hymne à l'amour."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'hymne européen est l'Ode à la Joie, extraite de la 9e symphonie de Beethoven. Il est joué sans paroles."
+  },
+  {
+    "id": "institutions_041",
+    "q": "De quoi est composé le drapeau européen ?",
+    "options": [
+      "D'étoiles sur fond bleu.",
+      "D'une croix blanche sur fond bleu.",
+      "De bandes bleues et jaunes.",
+      "D'un cercle d'or sur fond vert."
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le drapeau européen présente douze étoiles jaunes en cercle sur fond bleu. Le nombre douze symbolise la perfection et l'unité."
+  },
+  {
+    "id": "institutions_042",
+    "q": "De quelle couleur est le drapeau européen ?",
+    "options": [
+      "Bleu",
+      "Rouge",
+      "Blanc",
+      "Vert"
+    ],
+    "answer": 0,
+    "theme": "institutions",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le drapeau de l'Union européenne est bleu, avec douze étoiles jaunes. Le bleu en est la couleur de fond."
+  },
+  {
+    "id": "institutions_043",
+    "q": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+    "options": [
+      "1986",
+      "1992",
+      "1957",
+      "2007"
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le traité de Maastricht a été signé en 1992. Le traité de Rome (1957) et le traité de Lisbonne (2007) sont d'autres étapes de la construction européenne."
+  },
+  {
+    "id": "institutions_044",
+    "q": "Où est le siège du Parlement européen ?",
+    "options": [
+      "Genève",
+      "Bruxelles",
+      "Strasbourg",
+      "Francfort"
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le siège officiel du Parlement européen est à Strasbourg. Certaines réunions se tiennent aussi à Bruxelles."
+  },
+  {
+    "id": "institutions_045",
+    "q": "Où est le siège de la Commission européenne ?",
+    "options": [
+      "Francfort",
+      "Bruxelles",
+      "Luxembourg",
+      "Strasbourg"
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Commission européenne a son siège à Bruxelles. Le Parlement, lui, siège à Strasbourg."
+  },
+  {
+    "id": "institutions_046",
+    "q": "Quel État n'est pas membre de l'Union européenne ?",
+    "options": [
+      "La Pologne.",
+      "L'Allemagne.",
+      "L'Espagne.",
+      "La Norvège."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Norvège et la Suisse ne sont pas membres de l'Union européenne. Le Royaume-Uni en est sorti en 2020."
+  },
+  {
+    "id": "institutions_047",
+    "q": "Quand célèbre-t-on la journée de l'Europe ?",
+    "options": [
+      "Le 8 mai",
+      "Le 9 mai",
+      "Le 1er mai",
+      "Le 14 juillet"
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La journée de l'Europe est célébrée le 9 mai. Elle commémore la déclaration Schuman de 1950."
+  },
+  {
+    "id": "institutions_048",
+    "q": "À quelle fréquence les élections européennes sont-elles organisées ?",
+    "options": [
+      "Tous les 6 ans",
+      "Tous les 4 ans",
+      "Tous les 5 ans",
+      "Tous les 7 ans"
+    ],
+    "answer": 2,
+    "theme": "institutions",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les élections européennes ont lieu tous les 5 ans. Elles désignent les députés du Parlement européen."
+  },
+  {
+    "id": "institutions_049",
+    "q": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+    "options": [
+      "Parler couramment le français.",
+      "Être né en France.",
+      "Payer ses impôts en France.",
+      "Être citoyen d'un pays de l'UE, résider en France et avoir 18 ans."
+    ],
+    "answer": 3,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Pour voter aux européennes, il faut être citoyen d'un pays de l'UE, majeur, résider en France et être inscrit. La nationalité française n'est pas exigée."
+  },
+  {
+    "id": "institutions_050",
+    "q": "Quel pays est un pays fondateur de l'Union européenne ?",
+    "options": [
+      "La Pologne.",
+      "L'Allemagne.",
+      "La Suède.",
+      "L'Espagne."
+    ],
+    "answer": 1,
+    "theme": "institutions",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les six pays fondateurs sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Ils ont signé le traité de Rome en 1957."
+  }
+]

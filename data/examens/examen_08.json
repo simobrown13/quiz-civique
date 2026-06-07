@@ -1,0 +1,608 @@
+{
+  "id": "examen_08",
+  "titre": "Examen blanc n°8",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "societe_010",
+      "q": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+      "options": [
+        "Seuls les fonctionnaires sont remboursés.",
+        "L'Assurance Maladie rembourse une partie des frais de santé.",
+        "Les soins sont entièrement gratuits pour tous, sans exception.",
+        "Le patient paie toujours la totalité, sans remboursement."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Assurance Maladie (Sécurité sociale) rembourse une partie des frais de santé. Une complémentaire santé peut couvrir le reste."
+    },
+    {
+      "id": "societe_027",
+      "q": "Quel est l'âge de la majorité ?",
+      "options": [
+        "16 ans",
+        "21 ans",
+        "18 ans",
+        "20 ans"
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La majorité est fixée à 18 ans en France. À cet âge, on devient pleinement responsable et électeur."
+    },
+    {
+      "id": "valeurs_022",
+      "q": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+      "options": [
+        "Que les différences d'opinion sont interdites.",
+        "Que chacun possède les mêmes biens.",
+        "Que tous les citoyens ont les mêmes droits et les mêmes devoirs.",
+        "Que tout le monde gagne le même salaire."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'égalité signifie que tous les citoyens ont les mêmes droits et devoirs et sont égaux devant la loi. Elle ne signifie pas l'uniformité des situations."
+    },
+    {
+      "id": "histoire_016",
+      "q": "En quelle année l'euro est-elle devenue la monnaie utilisée en France ?",
+      "options": [
+        "1999",
+        "1992",
+        "2002",
+        "2000"
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'euro est devenu la monnaie utilisée en France en 2002, avec les pièces et billets. Il existait comme monnaie de compte depuis 1999."
+    },
+    {
+      "id": "histoire_024",
+      "q": "Quelle mer se situe entre la France et l'Angleterre ?",
+      "options": [
+        "La mer Méditerranée.",
+        "La Manche.",
+        "La mer du Nord.",
+        "La mer Baltique."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Manche sépare la France de l'Angleterre. Le tunnel sous la Manche relie les deux pays."
+    },
+    {
+      "id": "valeurs_010",
+      "q": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+      "options": [
+        "Oui, pour les filles uniquement.",
+        "Oui, sur simple demande écrite.",
+        "Oui, si la religion des parents l'interdit.",
+        "Non, l'école publique est laïque et mixte."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'école publique est laïque et mixte : on ne peut pas refuser la mixité du sport. Filles et garçons suivent les mêmes cours."
+    },
+    {
+      "id": "valeurs_004",
+      "q": "La liberté de circulation permet à toute personne de :",
+      "options": [
+        "Conduire un véhicule sans permis.",
+        "Se déplacer librement partout en France.",
+        "Franchir les frontières sans aucun document.",
+        "Entrer dans toute propriété privée sans autorisation."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de circulation permet de se déplacer librement sur le territoire. Elle ne dispense pas du respect de la propriété privée ni des règles de circulation."
+    },
+    {
+      "id": "valeurs_034",
+      "q": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+      "options": [
+        "Les usagers venus faire des démarches.",
+        "Tous les agents publics.",
+        "Les visiteurs étrangers seulement.",
+        "Uniquement le préfet."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Tous les agents publics doivent respecter la neutralité religieuse dans l'exercice de leurs fonctions. Les usagers, eux, n'y sont pas tenus."
+    },
+    {
+      "id": "societe_030",
+      "q": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+      "options": [
+        "Le retrait du permis de conduire.",
+        "Une amende de 7 500 euros et 6 mois d'emprisonnement.",
+        "Aucune sanction n'est prévue.",
+        "Un simple avertissement oral."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Ne pas respecter l'obligation d'instruction expose à une amende pouvant atteindre 7 500 euros et 6 mois d'emprisonnement. L'instruction est un droit de l'enfant."
+    },
+    {
+      "id": "valeurs_006",
+      "q": "Complétez ces paroles de la Marseillaise : \"Aux armes […] ! Formez vos bataillons\"",
+      "options": [
+        "Patriotes",
+        "Français",
+        "Soldats",
+        "Citoyens"
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le refrain de la Marseillaise est « Aux armes, citoyens ! Formez vos bataillons ». L'hymne s'adresse aux citoyens."
+    },
+    {
+      "id": "societe_024",
+      "q": "Les parents d'élève ont le droit de :",
+      "options": [
+        "Renvoyer un enseignant.",
+        "Donner les cours à la place du professeur.",
+        "Décider seuls des programmes scolaires.",
+        "Demander un rendez-vous avec les enseignants pour discuter de la scolarité de leur enfant."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents peuvent rencontrer les enseignants, suivre les résultats de leur enfant et participer à la vie de l'école. Ils élisent aussi leurs représentants."
+    },
+    {
+      "id": "droits_035",
+      "q": "Quelle proposition représente un exemple de crime ?",
+      "options": [
+        "Un vol à l'étalage.",
+        "Un stationnement gênant.",
+        "Un meurtre.",
+        "Un excès de vitesse."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le meurtre, l'assassinat ou le viol sont des crimes, jugés en cour d'assises. Le vol ou l'excès de vitesse sont moins graves."
+    },
+    {
+      "id": "droits_003",
+      "q": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "options": [
+        "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+        "Le mariage n'est autorisé qu'entre un homme et une femme.",
+        "Le mariage religieux suffit à être reconnu par l'État.",
+        "On peut se marier dès 15 ans sans condition."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le mariage est un contrat civil ouvert à deux personnes majeures, de même sexe ou de sexe différent (loi de 2013). Seul le mariage civil est reconnu par l'État."
+    },
+    {
+      "id": "histoire_023",
+      "q": "Quelle ville française est un port maritime ?",
+      "options": [
+        "Lyon.",
+        "Marseille.",
+        "Toulouse.",
+        "Strasbourg."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Marseille, Le Havre et Bordeaux sont des ports maritimes. Lyon ou Toulouse sont des villes de l'intérieur."
+    },
+    {
+      "id": "institutions_035",
+      "q": "Quel est le rôle principal des communes ?",
+      "options": [
+        "La gestion des services de proximité (état civil, écoles primaires).",
+        "Gérer la politique étrangère.",
+        "Diriger l'armée.",
+        "Voter le budget de l'Union européenne."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La commune gère les services de proximité : état civil, urbanisme, écoles maternelles et primaires. C'est l'échelon le plus proche des habitants."
+    },
+    {
+      "id": "institutions_017",
+      "q": "Combien de députés composent l’Assemblée nationale ?",
+      "options": [
+        "500",
+        "925",
+        "348",
+        "577"
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Assemblée nationale compte 577 députés. Le Sénat, lui, compte 348 sénateurs."
+    },
+    {
+      "id": "institutions_043",
+      "q": "En quelle année le traité de Maastricht, qui marque la fondation de l'Union européenne, a-t-il été signé ?",
+      "options": [
+        "1986",
+        "1992",
+        "1957",
+        "2007"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le traité de Maastricht a été signé en 1992. Le traité de Rome (1957) et le traité de Lisbonne (2007) sont d'autres étapes de la construction européenne."
+    },
+    {
+      "id": "societe_028",
+      "q": "À l'école, il est interdit aux parents de :",
+      "options": [
+        "Voter pour leurs représentants.",
+        "Faire du bruit dans les couloirs pendant les heures de classe.",
+        "Rencontrer les enseignants sur rendez-vous.",
+        "S'informer des résultats de leur enfant."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Il est interdit aux parents de perturber les cours ou de faire du bruit dans l'établissement. En revanche, ils peuvent rencontrer les enseignants sur rendez-vous."
+    },
+    {
+      "id": "societe_015",
+      "q": "Quelles sont les affaires traitées par le conseil de prud'hommes ?",
+      "options": [
+        "Les litiges entre voisins.",
+        "Les litiges entre un salarié et son employeur.",
+        "Les divorces.",
+        "Les affaires criminelles."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le conseil de prud'hommes règle les litiges entre un salarié et son employeur (contrat, licenciement). C'est la justice du travail."
+    },
+    {
+      "id": "societe_004",
+      "q": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "options": [
+        "Le revenu de solidarité active (RSA).",
+        "L'aide personnalisée au logement (APL).",
+        "L'allocation chômage.",
+        "L'aide juridictionnelle."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'aide juridictionnelle permet aux personnes aux revenus modestes de payer un avocat. L'État prend en charge tout ou partie des frais de justice."
+    },
+    {
+      "id": "histoire_047",
+      "q": "Qui était un célèbre musicien français ?",
+      "options": [
+        "Ludwig van Beethoven, allemand.",
+        "Wolfgang Mozart, autrichien.",
+        "Claude Debussy.",
+        "Johann Strauss, autrichien."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+    },
+    {
+      "id": "institutions_023",
+      "q": "Quelle condition est nécessaire pour voter aux élections ?",
+      "options": [
+        "Être majeur et citoyen français.",
+        "Résider en France depuis dix ans.",
+        "Avoir un emploi stable.",
+        "Payer la taxe d'habitation."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Pour voter, il faut être majeur, de nationalité française et inscrit sur les listes électorales. Aucune condition de revenu n'est exigée."
+    },
+    {
+      "id": "valeurs_007",
+      "q": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie […]\"",
+      "options": [
+        "La victoire est proche",
+        "La liberté nous appelle",
+        "Le jour de gloire est arrivé",
+        "Le drapeau est levé"
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le premier vers de la Marseillaise est « Allons enfants de la patrie, le jour de gloire est arrivé ». Il fut composé par Rouget de Lisle en 1792."
+    },
+    {
+      "id": "institutions_015",
+      "q": "Quel est le rôle du gouvernement ?",
+      "options": [
+        "Voter les lois à la place du Parlement.",
+        "Juger les criminels.",
+        "Élire le Président de la République.",
+        "Exécuter les lois et diriger l'administration."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le gouvernement exécute les lois et dirige l'administration. Il met en œuvre la politique au quotidien."
+    },
+    {
+      "id": "valeurs_008",
+      "q": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",
+      "options": [
+        "Choisir sa religion.",
+        "Imposer sa croyance aux autres.",
+        "Refuser de scolariser ses enfants.",
+        "Ne pas respecter les lois de la République."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté individuelle permet de choisir, changer ou abandonner une religion. Elle ne permet pas de violer la loi ni d'imposer ses choix."
+    },
+    {
+      "id": "droits_032",
+      "q": "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+      "options": [
+        "Prodiguer les premiers secours et appeler les secours si nécessaire.",
+        "Ne rien faire pour éviter les ennuis.",
+        "Filmer pour les réseaux sociaux puis partir.",
+        "Participer aux violences."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Témoin de violences, on doit porter secours et alerter la police (17) sans se mettre en danger. La non-assistance est punie par la loi."
+    },
+    {
+      "id": "droits_010",
+      "q": "Que prévoit la Charte de l'environnement ?",
+      "options": [
+        "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+        "L'obligation d'utiliser une voiture électrique.",
+        "L'interdiction de toute activité industrielle.",
+        "Le droit de polluer si l'on paie une taxe."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de l'environnement (2004) garantit le droit de vivre dans un environnement sain et le devoir de le protéger. Elle a valeur constitutionnelle."
+    },
+    {
+      "id": "valeurs_029",
+      "q": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+      "options": [
+        "Oui, mais uniquement en secret.",
+        "Non, l'athéisme est interdit.",
+        "Non, il faut obligatoirement déclarer une religion.",
+        "Oui, c'est la liberté de conscience."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Ne pas croire est un droit garanti par la liberté de conscience. Chacun est libre d'avoir une religion ou de n'en avoir aucune."
+    },
+    {
+      "id": "institutions_001",
+      "q": "Qu'est-ce que l'État de droit ?",
+      "options": [
+        "Un régime sans constitution ni tribunaux.",
+        "Un système où les gouvernants sont soumis aux lois.",
+        "Un système où le chef de l'État décide seul des lois.",
+        "Un pays où la police fait la loi."
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Dans un État de droit, gouvernants comme citoyens sont soumis à la loi. Les droits fondamentaux y sont protégés."
+    },
+    {
+      "id": "histoire_025",
+      "q": "Qu'est ce que la France d'outre-mer ?",
+      "options": [
+        "Les pays étrangers alliés de la France.",
+        "Les anciennes colonies devenues indépendantes.",
+        "L'ensemble des territoires français situés hors de l'Europe.",
+        "Les régions frontalières de la métropole."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France d'outre-mer regroupe les territoires français situés hors d'Europe (Guadeloupe, Réunion, etc.). Ils font partie de la République."
+    },
+    {
+      "id": "institutions_021",
+      "q": "Est-ce que le président de la République a tous les pouvoirs ?",
+      "options": [
+        "Oui, il décide de tout seul.",
+        "Oui, il peut modifier les lois à sa guise.",
+        "Non, ses pouvoirs sont encadrés par la Constitution et la séparation des pouvoirs.",
+        "Oui, il contrôle directement la justice."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pouvoirs du Président sont encadrés par la Constitution et la séparation des pouvoirs. Il partage le pouvoir avec le Parlement et les juges."
+    },
+    {
+      "id": "droits_007",
+      "q": "Le recours à l'avortement est-il autorisé ?",
+      "options": [
+        "Oui, sous conditions et dans le respect de la loi.",
+        "Oui, sans aucune limite de délai.",
+        "Uniquement avec l'accord du conjoint.",
+        "Non, c'est interdit en France."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'avortement (IVG) est autorisé sous conditions et dans le respect de la loi. C'est une liberté garantie par la Constitution."
+    },
+    {
+      "id": "societe_032",
+      "q": "À l'école, un enfant en situation de handicap :",
+      "options": [
+        "Doit rester à la maison.",
+        "Ne peut pas être scolarisé en école ordinaire.",
+        "N'a accès qu'à des établissements payants.",
+        "A les mêmes droits à l'éducation que tous les enfants."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un enfant en situation de handicap a les mêmes droits à l'éducation que les autres. Il est accueilli à l'école avec des aides adaptées à ses besoins."
+    },
+    {
+      "id": "histoire_007",
+      "q": "Quel pays a été colonisé par la France ?",
+      "options": [
+        "L'Algérie.",
+        "Le Japon.",
+        "La Norvège.",
+        "Le Brésil."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Algérie, le Sénégal, le Vietnam (Indochine) ou Madagascar ont été colonisés par la France. Le Japon ou le Brésil ne l'ont jamais été."
+    },
+    {
+      "id": "droits_014",
+      "q": "Quel texte est le plus difficile à modifier ?",
+      "options": [
+        "Un décret.",
+        "Un arrêté municipal.",
+        "Une circulaire ministérielle.",
+        "La Constitution."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Constitution est le texte le plus difficile à modifier : sa révision suit une procédure spéciale. C'est la norme suprême."
+    },
+    {
+      "id": "histoire_015",
+      "q": "Quelle peine a été supprimée en 1981 ?",
+      "options": [
+        "Le travail des enfants.",
+        "La prison à perpétuité.",
+        "La peine de mort.",
+        "Le service militaire."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort a été supprimée en 1981. La France l'a définitivement abolie cette année-là."
+    },
+    {
+      "id": "droits_008",
+      "q": "Que contient la Constitution ?",
+      "options": [
+        "La liste des impôts à payer.",
+        "Les principes fondamentaux de l'organisation de l'État et les droits des citoyens.",
+        "Les horaires des services publics.",
+        "Le règlement intérieur des entreprises."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Constitution fixe l'organisation des pouvoirs publics et garantit les droits des citoyens. C'est la loi suprême du pays."
+    },
+    {
+      "id": "histoire_010",
+      "q": "Durant le mandat de quel président la peine de mort a-t-elle été abolie ?",
+      "options": [
+        "François Mitterrand",
+        "Jacques Chirac",
+        "Valéry Giscard d'Estaing",
+        "Charles de Gaulle"
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort a été abolie en 1981 sous la présidence de François Mitterrand. La loi fut portée par Robert Badinter."
+    },
+    {
+      "id": "institutions_038",
+      "q": "Quel État a quitté l'Union européenne en 2020 ?",
+      "options": [
+        "L'Espagne",
+        "La Grèce",
+        "Le Royaume-Uni",
+        "L'Italie"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Royaume-Uni a quitté l'Union européenne en 2020 : c'est le Brexit. C'est le premier État à se retirer de l'Union."
+    },
+    {
+      "id": "droits_037",
+      "q": "Qui veille au maintien de l’ordre public ?",
+      "options": [
+        "Les juges des tribunaux.",
+        "Les maires seuls.",
+        "Les députés.",
+        "Les forces de l'ordre (police et gendarmerie)."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les forces de l'ordre — police nationale et gendarmerie — veillent au maintien de l'ordre public. Elles font respecter la loi sur le terrain."
+    }
+  ]
+}

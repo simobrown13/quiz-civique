@@ -1,0 +1,572 @@
+[
+  {
+    "id": "droits_001",
+    "q": "À quelle liberté la PMA fait-elle référence ?",
+    "options": [
+      "La liberté d'expression.",
+      "La liberté du commerce.",
+      "La liberté de circulation.",
+      "La liberté de fonder une famille."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La PMA renvoie à la liberté de fonder une famille. Elle aide les couples ou les femmes à avoir des enfants."
+  },
+  {
+    "id": "droits_002",
+    "q": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "options": [
+      "Au nom de la sécurité publique et de la protection des droits d'autrui.",
+      "Au nom des intérêts d'un parti politique.",
+      "Pour augmenter ses recettes fiscales.",
+      "Selon l'humeur des dirigeants."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'État ne peut restreindre les droits que pour la sécurité publique, la santé publique ou la protection d'autrui. Ces limites doivent être prévues par la loi."
+  },
+  {
+    "id": "droits_003",
+    "q": "Concernant le droit de se marier, quelle proposition est correcte ?",
+    "options": [
+      "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+      "Le mariage n'est autorisé qu'entre un homme et une femme.",
+      "Le mariage religieux suffit à être reconnu par l'État.",
+      "On peut se marier dès 15 ans sans condition."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le mariage est un contrat civil ouvert à deux personnes majeures, de même sexe ou de sexe différent (loi de 2013). Seul le mariage civil est reconnu par l'État."
+  },
+  {
+    "id": "droits_004",
+    "q": "Est-il toujours possible de divorcer ?",
+    "options": [
+      "Oui, mais seulement si les deux époux sont d'accord.",
+      "Non, sauf autorisation religieuse.",
+      "Oui, le divorce est possible et encadré par la loi.",
+      "Non, le mariage est indissoluble."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le divorce est un droit encadré par la loi, possible même si l'autre époux refuse. Plusieurs procédures existent."
+  },
+  {
+    "id": "droits_005",
+    "q": "La peine de mort est :",
+    "options": [
+      "Suspendue mais toujours légale.",
+      "Abolie",
+      "Décidée au cas par cas par le Président.",
+      "Autorisée pour les crimes les plus graves."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La peine de mort est abolie en France depuis 1981. Son abolition est inscrite dans la Constitution depuis 2007."
+  },
+  {
+    "id": "droits_006",
+    "q": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+    "options": [
+      "\"Les hommes naissent et demeurent libres et égaux en droits.\"",
+      "« Travailler plus pour gagner plus. »",
+      "« Liberté, Égalité, Fraternité. »",
+      "« L'État, c'est moi. »"
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'article 1er de la DDHC de 1789 énonce : « Les hommes naissent et demeurent libres et égaux en droits. » C'est un texte fondateur."
+  },
+  {
+    "id": "droits_007",
+    "q": "Le recours à l'avortement est-il autorisé ?",
+    "options": [
+      "Oui, sous conditions et dans le respect de la loi.",
+      "Oui, sans aucune limite de délai.",
+      "Uniquement avec l'accord du conjoint.",
+      "Non, c'est interdit en France."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'avortement (IVG) est autorisé sous conditions et dans le respect de la loi. C'est une liberté garantie par la Constitution."
+  },
+  {
+    "id": "droits_008",
+    "q": "Que contient la Constitution ?",
+    "options": [
+      "La liste des impôts à payer.",
+      "Les principes fondamentaux de l'organisation de l'État et les droits des citoyens.",
+      "Les horaires des services publics.",
+      "Le règlement intérieur des entreprises."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Constitution fixe l'organisation des pouvoirs publics et garantit les droits des citoyens. C'est la loi suprême du pays."
+  },
+  {
+    "id": "droits_009",
+    "q": "Que garantit la liberté de la presse ?",
+    "options": [
+      "L'obligation pour l'État de valider chaque article.",
+      "La liberté de publier des informations sans contrôle préalable.",
+      "Le droit de publier de fausses informations.",
+      "Le droit de diffamer librement."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté de la presse permet aux journalistes d'informer sans contrôle préalable de l'État. Elle reste limitée par la loi (diffamation, injure)."
+  },
+  {
+    "id": "droits_010",
+    "q": "Que prévoit la Charte de l'environnement ?",
+    "options": [
+      "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+      "L'obligation d'utiliser une voiture électrique.",
+      "L'interdiction de toute activité industrielle.",
+      "Le droit de polluer si l'on paie une taxe."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Charte de l'environnement (2004) garantit le droit de vivre dans un environnement sain et le devoir de le protéger. Elle a valeur constitutionnelle."
+  },
+  {
+    "id": "droits_011",
+    "q": "Que signifie la dignité humaine ?",
+    "options": [
+      "La reconnaissance de la valeur intrinsèque de chaque personne, indépendamment de ses caractéristiques.",
+      "Un privilège accordé par l'État.",
+      "Une valeur réservée aux seuls citoyens français.",
+      "Le droit d'être plus respecté selon sa fortune."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La dignité humaine reconnaît la valeur de chaque personne, quelles que soient ses caractéristiques. Aucun être humain ne peut être traité comme un objet."
+  },
+  {
+    "id": "droits_012",
+    "q": "Que signifie le droit de manifester ?",
+    "options": [
+      "Le droit d'exprimer publiquement son opinion, souvent en groupe, pour attirer l'attention sur une cause.",
+      "Le droit de dégrader des biens publics.",
+      "Le droit de manifester sans aucune règle.",
+      "Le droit de bloquer la circulation par la violence."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le droit de manifester permet d'exprimer publiquement son opinion, de façon pacifique et dans le respect de la loi. Les manifestations doivent être déclarées."
+  },
+  {
+    "id": "droits_013",
+    "q": "Que signifie PMA ?",
+    "options": [
+      "Protection Maternelle et Aide.",
+      "Procréation Médicalement Assistée",
+      "Programme Médical d'Accompagnement.",
+      "Prise en charge Médicale Anticipée."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "PMA signifie Procréation Médicalement Assistée. Elle regroupe des techniques médicales d'aide à la conception."
+  },
+  {
+    "id": "droits_014",
+    "q": "Quel texte est le plus difficile à modifier ?",
+    "options": [
+      "Un décret.",
+      "Un arrêté municipal.",
+      "Une circulaire ministérielle.",
+      "La Constitution."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Constitution est le texte le plus difficile à modifier : sa révision suit une procédure spéciale. C'est la norme suprême."
+  },
+  {
+    "id": "droits_015",
+    "q": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+    "options": [
+      "La liberté de circulation.",
+      "La liberté de conscience.",
+      "La liberté du commerce.",
+      "La liberté de la presse."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté de conscience permet de croire en la religion de son choix, d'en changer ou de n'en avoir aucune. Elle est garantie par la laïcité."
+  },
+  {
+    "id": "droits_016",
+    "q": "Qu'est-ce que le droit de grève ?",
+    "options": [
+      "L'obligation de travailler les jours fériés.",
+      "Le droit de l'employeur de fermer l'entreprise.",
+      "Le droit pour les salariés de cesser collectivement le travail pour défendre leurs intérêts.",
+      "Le droit de démissionner sans préavis."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le droit de grève permet aux salariés de cesser collectivement le travail pour défendre leurs intérêts. C'est un droit constitutionnel."
+  },
+  {
+    "id": "droits_017",
+    "q": "Qu'est-ce que la Constitution ?",
+    "options": [
+      "C'est le texte suprême qui organise les pouvoirs et les droits.",
+      "Un traité signé avec l'Union européenne.",
+      "Le programme du gouvernement en place.",
+      "Un simple guide sans valeur obligatoire."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Constitution est le texte suprême qui organise les pouvoirs et garantit les droits. Toutes les lois doivent la respecter."
+  },
+  {
+    "id": "droits_018",
+    "q": "Qui peut demander à avorter ?",
+    "options": [
+      "Aucune femme : c'est interdit.",
+      "Toute femme enceinte, sous conditions légales.",
+      "Seulement avec l'accord du père.",
+      "Uniquement les femmes mariées."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Toute femme enceinte peut demander une IVG, dans les conditions et délais fixés par la loi. L'accord d'un tiers n'est pas requis."
+  },
+  {
+    "id": "droits_019",
+    "q": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+    "options": [
+      "Non, sauf autorisation de son mari.",
+      "Non, le vote est réservé aux hommes.",
+      "Oui, à condition d'être inscrite sur les listes électorales.",
+      "Oui, mais uniquement aux élections locales."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Une femme majeure de nationalité française vote comme un homme, si elle est inscrite sur les listes. Le droit de vote des femmes date de 1944."
+  },
+  {
+    "id": "droits_020",
+    "q": "Concernant l'utilisation des réseaux sociaux, quelle proposition est correcte ?",
+    "options": [
+      "On peut tout publier : internet est une zone sans loi.",
+      "Il faut respecter la vie privée d'autrui et ne pas tenir de propos haineux.",
+      "L'anonymat autorise les insultes.",
+      "Les propos racistes y sont permis."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Sur les réseaux sociaux, la loi s'applique comme dans la vie réelle : pas d'insultes, pas de haine. Chacun est responsable de ce qu'il publie."
+  },
+  {
+    "id": "droits_021",
+    "q": "Jeter un mégot par terre est :",
+    "options": [
+      "Une infraction et une atteinte à l'environnement.",
+      "Un droit dans l'espace public.",
+      "Une pratique encouragée par la loi.",
+      "Un geste anodin et autorisé."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Jeter un mégot par terre est une infraction punie d'une amende. C'est une atteinte à l'environnement."
+  },
+  {
+    "id": "droits_022",
+    "q": "L'État peut-il limiter les droits et libertés ?",
+    "options": [
+      "Oui, si la loi le prévoit pour des raisons d'intérêt général.",
+      "Non, jamais, en aucune circonstance.",
+      "Oui, à tout moment et sans justification.",
+      "Oui, selon la seule volonté du Président."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'État peut limiter des droits si la loi le prévoit pour l'intérêt général (sécurité, santé). Ces limites doivent rester proportionnées."
+  },
+  {
+    "id": "droits_023",
+    "q": "Parmi ces actions, laquelle permet d'adopter une attitude respectueuse de l’environnement ?",
+    "options": [
+      "Prendre sa voiture pour de très courts trajets.",
+      "Laisser couler l'eau en permanence.",
+      "Brûler ses déchets dans son jardin.",
+      "Trier ses déchets et réduire sa consommation d'eau."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Trier ses déchets et réduire sa consommation d'eau sont des gestes respectueux de l'environnement. Les transports en commun y contribuent aussi."
+  },
+  {
+    "id": "droits_024",
+    "q": "Quelle proposition constitue une obligation ?",
+    "options": [
+      "Posséder une voiture.",
+      "Payer ses impôts.",
+      "Pratiquer une religion.",
+      "Adhérer à un parti politique."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Payer ses impôts, déclarer ses revenus et respecter les lois sont des obligations. Adhérer à un parti ou pratiquer une religion sont des libertés."
+  },
+  {
+    "id": "droits_025",
+    "q": "Pour quel motif peut-on limiter la liberté d'expression ?",
+    "options": [
+      "Pour avoir critiqué le gouvernement.",
+      "Pour avoir donné son avis sur une loi.",
+      "Pour tenir des propos racistes ou diffamatoires.",
+      "Pour avoir exprimé une opinion politique."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté d'expression est limitée par les propos racistes, diffamatoires ou haineux. La simple critique des institutions reste autorisée."
+  },
+  {
+    "id": "droits_026",
+    "q": "Pourquoi doit-on trier ses déchets ?",
+    "options": [
+      "Pour augmenter le volume des poubelles.",
+      "Cela n'a aucune utilité.",
+      "Pour réduire la quantité de déchets envoyés en décharge et recycler les matériaux.",
+      "Pour payer moins d'impôts locaux."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le tri réduit les déchets envoyés en décharge et permet de recycler verre, papier et plastique. Il limite la pollution."
+  },
+  {
+    "id": "droits_027",
+    "q": "Que doit faire une victime de violences ?",
+    "options": [
+      "Attendre que la situation s'arrange seule.",
+      "Garder le silence.",
+      "Porter plainte et se faire aider par les autorités et les associations.",
+      "Se venger elle-même."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Une victime de violences doit porter plainte et se faire aider par les autorités et les associations. Elle peut appeler les numéros d'urgence."
+  },
+  {
+    "id": "droits_028",
+    "q": "Que doit-on faire face aux ordres des policiers ou gendarmes ?",
+    "options": [
+      "Discuter chaque consigne.",
+      "Les respecter.",
+      "Prendre la fuite.",
+      "Les ignorer."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Face aux ordres des policiers ou gendarmes, il faut rester calme et obéir. Le contrôle peut ensuite être contesté par les voies légales."
+  },
+  {
+    "id": "droits_029",
+    "q": "Quel est le rôle de la police ?",
+    "options": [
+      "Collecter les impôts.",
+      "Voter les lois.",
+      "Protéger les citoyens, maintenir l'ordre public et faire respecter la loi.",
+      "Juger et condamner les accusés."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La police protège les citoyens, maintient l'ordre public et fait respecter la loi. Elle ne juge pas : c'est le rôle des tribunaux."
+  },
+  {
+    "id": "droits_030",
+    "q": "Quel est un exemple d’assistance à personne en danger ?",
+    "options": [
+      "Passer son chemin.",
+      "Attendre que quelqu'un d'autre agisse.",
+      "Appeler les secours pour une personne qui a un malaise.",
+      "Filmer la scène sans intervenir."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Appeler les secours (SAMU, pompiers) pour une personne en danger est une assistance. Ne pas porter secours est un délit."
+  },
+  {
+    "id": "droits_031",
+    "q": "Quel exemple illustre une limitation de liberté pour protéger l'intérêt général ?",
+    "options": [
+      "L'obligation de changer de religion.",
+      "L'interdiction de voter.",
+      "L'interdiction de critiquer le gouvernement.",
+      "Le port du masque en période épidémique."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le port du masque ou le confinement lors d'une épidémie limitent des libertés pour protéger la santé de tous. C'est une mesure d'intérêt général."
+  },
+  {
+    "id": "droits_032",
+    "q": "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+    "options": [
+      "Prodiguer les premiers secours et appeler les secours si nécessaire.",
+      "Ne rien faire pour éviter les ennuis.",
+      "Filmer pour les réseaux sociaux puis partir.",
+      "Participer aux violences."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Témoin de violences, on doit porter secours et alerter la police (17) sans se mettre en danger. La non-assistance est punie par la loi."
+  },
+  {
+    "id": "droits_033",
+    "q": "Quelle est l'infraction la plus grave ?",
+    "options": [
+      "Le délit.",
+      "Le simple avertissement.",
+      "La contravention.",
+      "Le crime."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'infraction la plus grave est le crime, jugé par la cour d'assises. Viennent ensuite le délit puis la contravention."
+  },
+  {
+    "id": "droits_034",
+    "q": "Quelle obligation concerne toutes les personnes résidant en France quelle que soit leur nationalité ?",
+    "options": [
+      "Parler uniquement le français à la maison.",
+      "Respecter la loi française.",
+      "Voter à toutes les élections.",
+      "Adopter la religion majoritaire."
+    ],
+    "answer": 1,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Toute personne résidant en France doit respecter la loi française, quelle que soit sa nationalité. C'est une obligation pour tous."
+  },
+  {
+    "id": "droits_035",
+    "q": "Quelle proposition représente un exemple de crime ?",
+    "options": [
+      "Un vol à l'étalage.",
+      "Un stationnement gênant.",
+      "Un meurtre.",
+      "Un excès de vitesse."
+    ],
+    "answer": 2,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le meurtre, l'assassinat ou le viol sont des crimes, jugés en cour d'assises. Le vol ou l'excès de vitesse sont moins graves."
+  },
+  {
+    "id": "droits_036",
+    "q": "Quelle proposition représente un exemple de délit ?",
+    "options": [
+      "Un simple stationnement interdit.",
+      "Un meurtre.",
+      "Un assassinat.",
+      "Un vol."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le vol, l'escroquerie ou la conduite sans permis sont des délits, jugés au tribunal correctionnel. Le meurtre est un crime, plus grave."
+  },
+  {
+    "id": "droits_037",
+    "q": "Qui veille au maintien de l’ordre public ?",
+    "options": [
+      "Les juges des tribunaux.",
+      "Les maires seuls.",
+      "Les députés.",
+      "Les forces de l'ordre (police et gendarmerie)."
+    ],
+    "answer": 3,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les forces de l'ordre — police nationale et gendarmerie — veillent au maintien de l'ordre public. Elles font respecter la loi sur le terrain."
+  },
+  {
+    "id": "droits_038",
+    "q": "S'agissant des déchets, quelle proposition est correcte ?",
+    "options": [
+      "Il est important de trier ses déchets pour le recyclage.",
+      "Le tri est inutile pour l'environnement.",
+      "Il faut tout jeter dans la nature.",
+      "Tous les déchets vont dans la même poubelle."
+    ],
+    "answer": 0,
+    "theme": "droits",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Trier ses déchets permet de recycler le verre, le papier et le plastique. C'est un geste civique pour l'environnement."
+  }
+]

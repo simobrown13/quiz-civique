@@ -1,0 +1,42 @@
+[
+  {
+    "id": "valeurs",
+    "label": "Valeurs de la République",
+    "description": "Devise, laïcité, symboles, DDHC, principes républicains",
+    "icon": "🏛️",
+    "color": "#4f8ef7",
+    "questionsPerExam": 8
+  },
+  {
+    "id": "institutions",
+    "label": "Institutions & Politique",
+    "description": "Président, gouvernement, Parlement, collectivités, Union européenne",
+    "icon": "⚖️",
+    "color": "#a78bfa",
+    "questionsPerExam": 8
+  },
+  {
+    "id": "droits",
+    "label": "Droits & Devoirs",
+    "description": "Droits fondamentaux, vote, travail, protection sociale",
+    "icon": "📜",
+    "color": "#34d399",
+    "questionsPerExam": 8
+  },
+  {
+    "id": "histoire",
+    "label": "Histoire & Géographie",
+    "description": "Dates clés, personnages historiques, géographie, patrimoine",
+    "icon": "🗺️",
+    "color": "#f59e0b",
+    "questionsPerExam": 8
+  },
+  {
+    "id": "societe",
+    "label": "Vivre en société",
+    "description": "École, famille, santé, logement, travail, intégration",
+    "icon": "🤝",
+    "color": "#f472b6",
+    "questionsPerExam": 8
+  }
+]

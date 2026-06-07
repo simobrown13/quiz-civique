@@ -1,0 +1,608 @@
+{
+  "id": "examen_03",
+  "titre": "Examen blanc n°3",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "institutions_033",
+      "q": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "options": [
+        "2000",
+        "1992",
+        "2002",
+        "1999"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pièces et billets en euros circulent depuis 2002. L'euro existait comme monnaie de compte depuis 1999."
+    },
+    {
+      "id": "societe_023",
+      "q": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "options": [
+        "Le baccalauréat.",
+        "Le CAP.",
+        "La licence.",
+        "Le brevet des collèges."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin du collège, les élèves passent le brevet des collèges (DNB). Le baccalauréat, lui, sanctionne la fin du lycée."
+    },
+    {
+      "id": "droits_011",
+      "q": "Que signifie la dignité humaine ?",
+      "options": [
+        "La reconnaissance de la valeur intrinsèque de chaque personne, indépendamment de ses caractéristiques.",
+        "Un privilège accordé par l'État.",
+        "Une valeur réservée aux seuls citoyens français.",
+        "Le droit d'être plus respecté selon sa fortune."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La dignité humaine reconnaît la valeur de chaque personne, quelles que soient ses caractéristiques. Aucun être humain ne peut être traité comme un objet."
+    },
+    {
+      "id": "institutions_049",
+      "q": "Quelle condition est nécessaire pour voter aux élections européennes ?",
+      "options": [
+        "Parler couramment le français.",
+        "Être né en France.",
+        "Payer ses impôts en France.",
+        "Être citoyen d'un pays de l'UE, résider en France et avoir 18 ans."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Pour voter aux européennes, il faut être citoyen d'un pays de l'UE, majeur, résider en France et être inscrit. La nationalité française n'est pas exigée."
+    },
+    {
+      "id": "valeurs_015",
+      "q": "Que fait l’État pour lutter contre les discriminations ?",
+      "options": [
+        "Il se contente de conseils sans valeur légale.",
+        "Il laisse chaque entreprise décider seule.",
+        "Il prend des lois et met en place des organismes.",
+        "Il ne fait rien, c'est une affaire privée."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État lutte contre les discriminations par des lois et des institutions comme le Défenseur des droits. Les actes discriminatoires sont punis."
+    },
+    {
+      "id": "droits_004",
+      "q": "Est-il toujours possible de divorcer ?",
+      "options": [
+        "Oui, mais seulement si les deux époux sont d'accord.",
+        "Non, sauf autorisation religieuse.",
+        "Oui, le divorce est possible et encadré par la loi.",
+        "Non, le mariage est indissoluble."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le divorce est un droit encadré par la loi, possible même si l'autre époux refuse. Plusieurs procédures existent."
+    },
+    {
+      "id": "valeurs_026",
+      "q": "Le régime de la France est :",
+      "options": [
+        "Une fédération d'États indépendants.",
+        "Une république semi-présidentielle.",
+        "Une dictature militaire.",
+        "Une monarchie constitutionnelle."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France est une République démocratique de type semi-présidentiel : un Président élu coexiste avec un gouvernement responsable devant le Parlement."
+    },
+    {
+      "id": "valeurs_036",
+      "q": "Que garantit le principe de laïcité ?",
+      "options": [
+        "Une religion officielle pour tous les citoyens.",
+        "Le financement des Églises par l'impôt.",
+        "La liberté de conscience et la séparation des institutions.",
+        "L'interdiction pure et simple des cultes."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité garantit la liberté de conscience et la séparation des institutions et des religions. Elle assure l'égalité de tous devant la loi."
+    },
+    {
+      "id": "institutions_045",
+      "q": "Où est le siège de la Commission européenne ?",
+      "options": [
+        "Francfort",
+        "Bruxelles",
+        "Luxembourg",
+        "Strasbourg"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Commission européenne a son siège à Bruxelles. Le Parlement, lui, siège à Strasbourg."
+    },
+    {
+      "id": "droits_019",
+      "q": "Une femme majeure de nationalité française a-t-elle le droit de voter aux élections ?",
+      "options": [
+        "Non, sauf autorisation de son mari.",
+        "Non, le vote est réservé aux hommes.",
+        "Oui, à condition d'être inscrite sur les listes électorales.",
+        "Oui, mais uniquement aux élections locales."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Une femme majeure de nationalité française vote comme un homme, si elle est inscrite sur les listes. Le droit de vote des femmes date de 1944."
+    },
+    {
+      "id": "institutions_005",
+      "q": "Que garantit l’État de droit ?",
+      "options": [
+        "La protection des droits fondamentaux des citoyens.",
+        "La suppression des libertés individuelles.",
+        "Le pouvoir absolu du gouvernement.",
+        "L'absence de contrôle des juges."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État de droit garantit la protection des droits fondamentaux et l'égalité devant la justice. Il limite le pouvoir par la loi."
+    },
+    {
+      "id": "histoire_026",
+      "q": "Quelle chaîne de montagnes est située entre la France et l’Espagne ?",
+      "options": [
+        "Les Pyrénées.",
+        "Le Jura.",
+        "Le Massif central.",
+        "Les Alpes."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les Pyrénées forment la frontière naturelle entre la France et l'Espagne. Les Alpes, elles, séparent la France de l'Italie."
+    },
+    {
+      "id": "valeurs_024",
+      "q": "Quels sont des symboles officiels de la République française ?",
+      "options": [
+        "Le coq, la tour Eiffel et le béret.",
+        "Le drapeau tricolore, Marianne, la Marseillaise.",
+        "La baguette, le vin et le fromage.",
+        "L'euro, l'hymne européen et le drapeau étoilé."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les symboles officiels sont le drapeau tricolore, Marianne, la Marseillaise, la devise et le 14 juillet. Le coq ou la tour Eiffel sont des emblèmes non officiels."
+    },
+    {
+      "id": "droits_003",
+      "q": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "options": [
+        "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+        "Le mariage n'est autorisé qu'entre un homme et une femme.",
+        "Le mariage religieux suffit à être reconnu par l'État.",
+        "On peut se marier dès 15 ans sans condition."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le mariage est un contrat civil ouvert à deux personnes majeures, de même sexe ou de sexe différent (loi de 2013). Seul le mariage civil est reconnu par l'État."
+    },
+    {
+      "id": "societe_003",
+      "q": "En cas de divorce, qui exerce l'autorité parentale ?",
+      "options": [
+        "Les grands-parents.",
+        "Uniquement le père.",
+        "Les deux parents, sauf décision contraire du juge.",
+        "Uniquement la mère."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Après un divorce, l'autorité parentale est exercée par les deux parents, sauf décision contraire du juge. L'intérêt de l'enfant prime."
+    },
+    {
+      "id": "institutions_029",
+      "q": "Quel est le rôle du Premier ministre ?",
+      "options": [
+        "Représenter la France à l'étranger comme chef de l'État.",
+        "Présider le Sénat.",
+        "Commander seul les armées.",
+        "Diriger le Gouvernement et sa politique."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Premier ministre dirige le Gouvernement et sa politique. Il applique les lois votées par le Parlement."
+    },
+    {
+      "id": "institutions_022",
+      "q": "Qui est le préfet ?",
+      "options": [
+        "Le maire de la préfecture.",
+        "Un juge nommé à vie.",
+        "Le représentant de l'État dans le département.",
+        "Le chef du conseil municipal."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le préfet est le représentant de l'État dans le département. Il y veille à la sécurité et à l'application des lois."
+    },
+    {
+      "id": "histoire_001",
+      "q": "Quel était le surnom de Louis XIV ?",
+      "options": [
+        "Le Bien-Aimé.",
+        "Le Roi de Fer.",
+        "Le Roi Soleil.",
+        "Le Roi Lune."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Louis XIV était surnommé le Roi Soleil. Il a régné de 1643 à 1715 et fait construire le château de Versailles."
+    },
+    {
+      "id": "societe_018",
+      "q": "Quelle est la mission de France Travail ?",
+      "options": [
+        "Verser les retraites.",
+        "Gérer les impôts.",
+        "Accompagner les demandeurs d'emploi et les employeurs.",
+        "Délivrer les titres de séjour."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "France Travail accompagne les demandeurs d'emploi et les employeurs. Elle verse aussi les allocations chômage."
+    },
+    {
+      "id": "valeurs_032",
+      "q": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+      "options": [
+        "Que l'État finance toutes les religions à égalité.",
+        "Que l'État choisit une religion majoritaire.",
+        "Que l'État interdit toutes les religions.",
+        "Que l'État n'a pas de religion."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La neutralité signifie que l'État n'a pas de religion, n'en favorise et n'en finance aucune. Il traite toutes les croyances à égalité."
+    },
+    {
+      "id": "valeurs_029",
+      "q": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+      "options": [
+        "Oui, mais uniquement en secret.",
+        "Non, l'athéisme est interdit.",
+        "Non, il faut obligatoirement déclarer une religion.",
+        "Oui, c'est la liberté de conscience."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Ne pas croire est un droit garanti par la liberté de conscience. Chacun est libre d'avoir une religion ou de n'en avoir aucune."
+    },
+    {
+      "id": "societe_002",
+      "q": "Auprès de quelle institution les parents peuvent-ils inscrire leur enfant à l'école publique ?",
+      "options": [
+        "Le rectorat directement.",
+        "Le tribunal.",
+        "La mairie.",
+        "La préfecture."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents inscrivent leur enfant à l'école publique auprès de la mairie. La commune gère les écoles maternelles et primaires."
+    },
+    {
+      "id": "droits_033",
+      "q": "Quelle est l'infraction la plus grave ?",
+      "options": [
+        "Le délit.",
+        "Le simple avertissement.",
+        "La contravention.",
+        "Le crime."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'infraction la plus grave est le crime, jugé par la cour d'assises. Viennent ensuite le délit puis la contravention."
+    },
+    {
+      "id": "droits_022",
+      "q": "L'État peut-il limiter les droits et libertés ?",
+      "options": [
+        "Oui, si la loi le prévoit pour des raisons d'intérêt général.",
+        "Non, jamais, en aucune circonstance.",
+        "Oui, à tout moment et sans justification.",
+        "Oui, selon la seule volonté du Président."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État peut limiter des droits si la loi le prévoit pour l'intérêt général (sécurité, santé). Ces limites doivent rester proportionnées."
+    },
+    {
+      "id": "societe_009",
+      "q": "Quel numéro d'urgence permet d'appeler la police ?",
+      "options": [
+        "17",
+        "15",
+        "112",
+        "18"
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le 17 permet d'appeler la police. Le 15 joint le SAMU, le 18 les pompiers et le 112 est le numéro d'urgence européen."
+    },
+    {
+      "id": "valeurs_030",
+      "q": "Quel droit est garanti par la laïcité ?",
+      "options": [
+        "L'obligation de pratiquer une religion.",
+        "La liberté de conscience.",
+        "L'interdiction de toute religion.",
+        "Le financement des cultes par l'État."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité garantit la liberté de conscience : croire, ne pas croire ou changer de religion. L'État reste neutre."
+    },
+    {
+      "id": "droits_015",
+      "q": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+      "options": [
+        "La liberté de circulation.",
+        "La liberté de conscience.",
+        "La liberté du commerce.",
+        "La liberté de la presse."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de conscience permet de croire en la religion de son choix, d'en changer ou de n'en avoir aucune. Elle est garantie par la laïcité."
+    },
+    {
+      "id": "histoire_022",
+      "q": "Quel pays a une frontière terrestre avec la France métropolitaine ?",
+      "options": [
+        "Les Pays-Bas.",
+        "La Suisse.",
+        "Le Portugal.",
+        "Le Royaume-Uni."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France métropolitaine a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, Monaco, l'Espagne et Andorre. Le Portugal n'en fait pas partie."
+    },
+    {
+      "id": "valeurs_039",
+      "q": "Qu'est ce qui est interdit par la Charte de la laïcité à l'école ?",
+      "options": [
+        "Porter des signes religieux ostentatoires.",
+        "Parler de ses convictions à la maison.",
+        "Manger à la cantine scolaire.",
+        "Étudier l'histoire des religions en cours."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de la laïcité interdit aux élèves le port de signes religieux ostentatoires (loi de 2004). L'étude des faits religieux, elle, est autorisée."
+    },
+    {
+      "id": "societe_025",
+      "q": "Qui peut manger à la cantine scolaire ?",
+      "options": [
+        "Les élèves et le personnel de l'établissement scolaire.",
+        "N'importe quel passant.",
+        "Uniquement les enseignants.",
+        "Seulement les parents d'élèves."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La cantine scolaire accueille les élèves inscrits ainsi que le personnel de l'établissement. Ce n'est pas un restaurant ouvert au public."
+    },
+    {
+      "id": "histoire_036",
+      "q": "Quelle ville française fait partie des 10 plus grandes métropoles du pays ?",
+      "options": [
+        "Guéret.",
+        "Vannes.",
+        "Aurillac.",
+        "Paris."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Paris, Marseille, Lyon, Toulouse ou Lille comptent parmi les plus grandes métropoles françaises. Les petites villes comme Guéret n'en font pas partie."
+    },
+    {
+      "id": "histoire_009",
+      "q": "Quelle est la première étape de la construction européenne en 1951 ?",
+      "options": [
+        "La signature du traité de Maastricht.",
+        "La création de l'euro.",
+        "La création de l'ONU.",
+        "La création de la Communauté européenne du charbon et de l'acier (CECA)."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La première étape de la construction européenne est la CECA (1951), qui met en commun le charbon et l'acier de six pays. Elle découle de la déclaration Schuman."
+    },
+    {
+      "id": "societe_013",
+      "q": "L'inscription à l'Assurance maladie est :",
+      "options": [
+        "Réservée aux personnes nées en France.",
+        "Facultative et entièrement payante.",
+        "Interdite aux étrangers.",
+        "Obligatoire pour toute personne résidant en France."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'inscription à l'Assurance maladie est obligatoire pour toute personne résidant en France de façon stable et régulière. Elle ouvre droit au remboursement des soins."
+    },
+    {
+      "id": "societe_008",
+      "q": "Où peut-on déposer un lave-vaisselle cassé ?",
+      "options": [
+        "Sur le trottoir devant chez soi.",
+        "Dans une poubelle classique.",
+        "Dans la nature.",
+        "Auprès d'un centre de recyclage ou d'une déchetterie."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un appareil cassé se dépose en déchetterie ou dans un centre de recyclage. Cela permet de recycler les matériaux et d'éviter la pollution."
+    },
+    {
+      "id": "institutions_031",
+      "q": "Combien y a-t-il de régions en France ?",
+      "options": [
+        "13",
+        "18",
+        "27",
+        "22"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France compte 18 régions, dont 5 régions d'outre-mer. La métropole en compte 13."
+    },
+    {
+      "id": "histoire_047",
+      "q": "Qui était un célèbre musicien français ?",
+      "options": [
+        "Ludwig van Beethoven, allemand.",
+        "Wolfgang Mozart, autrichien.",
+        "Claude Debussy.",
+        "Johann Strauss, autrichien."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+    },
+    {
+      "id": "histoire_015",
+      "q": "Quelle peine a été supprimée en 1981 ?",
+      "options": [
+        "Le travail des enfants.",
+        "La prison à perpétuité.",
+        "La peine de mort.",
+        "Le service militaire."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort a été supprimée en 1981. La France l'a définitivement abolie cette année-là."
+    },
+    {
+      "id": "droits_006",
+      "q": "Laquelle de ces citations est inscrite dans la Déclaration des Droits de l'homme et du Citoyen de 1789 ?",
+      "options": [
+        "\"Les hommes naissent et demeurent libres et égaux en droits.\"",
+        "« Travailler plus pour gagner plus. »",
+        "« Liberté, Égalité, Fraternité. »",
+        "« L'État, c'est moi. »"
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'article 1er de la DDHC de 1789 énonce : « Les hommes naissent et demeurent libres et égaux en droits. » C'est un texte fondateur."
+    },
+    {
+      "id": "institutions_002",
+      "q": "Le président de la République a commis un crime. Quelle proposition est correcte ?",
+      "options": [
+        "Il est jugé immédiatement comme un simple citoyen.",
+        "Il ne pourra jamais être jugé pour ces faits.",
+        "Il est automatiquement emprisonné sans procès.",
+        "Il pourra être jugé par la justice après la fin de son mandat."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Président bénéficie d'une immunité pendant son mandat. Il pourra être jugé par la justice une fois son mandat terminé."
+    },
+    {
+      "id": "histoire_044",
+      "q": "Quel est le classement de la langue française parmi les langues les plus parlées dans le monde ?",
+      "options": [
+        "Première.",
+        "Vingtième.",
+        "Cinquième.",
+        "Dixième."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le français figure parmi les cinq langues les plus parlées dans le monde. Il est langue officielle dans de nombreux pays."
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "valeurs_001",
+    "q": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",
+    "options": [
+      "Partir en vacances à l'étranger.",
+      "Voter aux élections.",
+      "Faire ses courses au supermarché.",
+      "Regarder la télévision le soir."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Voter est un acte fondamental de participation citoyenne. S'engager dans une association ou payer ses impôts en sont aussi."
+  },
+  {
+    "id": "valeurs_002",
+    "q": "Que garantit la liberté d’expression ?",
+    "options": [
+      "Le droit d'insulter publiquement qui l'on veut.",
+      "Le droit de diffuser de fausses informations.",
+      "Le droit de mentir devant un tribunal.",
+      "La possibilité de critiquer les institutions."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté d'expression permet de critiquer les institutions et de donner son opinion dans le respect de la loi. Elle ne couvre pas l'injure ni la diffamation."
+  },
+  {
+    "id": "valeurs_003",
+    "q": "À quoi sert un titre de séjour ?",
+    "options": [
+      "À être exempté de payer des impôts.",
+      "À permettre à un étranger de vivre (séjourner) légalement en France.",
+      "À voter aux élections présidentielles.",
+      "À obtenir automatiquement la nationalité française."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le titre de séjour autorise un étranger à séjourner légalement en France. Il ne confère ni la nationalité ni le droit de vote."
+  },
+  {
+    "id": "valeurs_004",
+    "q": "La liberté de circulation permet à toute personne de :",
+    "options": [
+      "Conduire un véhicule sans permis.",
+      "Se déplacer librement partout en France.",
+      "Franchir les frontières sans aucun document.",
+      "Entrer dans toute propriété privée sans autorisation."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté de circulation permet de se déplacer librement sur le territoire. Elle ne dispense pas du respect de la propriété privée ni des règles de circulation."
+  },
+  {
+    "id": "valeurs_005",
+    "q": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+    "options": [
+      "service-public.fr",
+      "wikipedia.fr",
+      "google.fr",
+      "leboncoin.fr"
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les symboles de la République figurent sur les sites officiels de l'État, qui se terminent par .gouv.fr (service-public.fr, gouvernement.fr). Les sites privés ne font pas autorité."
+  },
+  {
+    "id": "valeurs_006",
+    "q": "Complétez ces paroles de la Marseillaise : \"Aux armes […] ! Formez vos bataillons\"",
+    "options": [
+      "Patriotes",
+      "Français",
+      "Soldats",
+      "Citoyens"
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le refrain de la Marseillaise est « Aux armes, citoyens ! Formez vos bataillons ». L'hymne s'adresse aux citoyens."
+  },
+  {
+    "id": "valeurs_007",
+    "q": "Complétez les paroles de la Marseillaise : \"Allons enfants de la patrie […]\"",
+    "options": [
+      "La victoire est proche",
+      "La liberté nous appelle",
+      "Le jour de gloire est arrivé",
+      "Le drapeau est levé"
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le premier vers de la Marseillaise est « Allons enfants de la patrie, le jour de gloire est arrivé ». Il fut composé par Rouget de Lisle en 1792."
+  },
+  {
+    "id": "valeurs_008",
+    "q": "En application de la liberté individuelle, quelle proposition est correcte ? Une personne peut :",
+    "options": [
+      "Choisir sa religion.",
+      "Imposer sa croyance aux autres.",
+      "Refuser de scolariser ses enfants.",
+      "Ne pas respecter les lois de la République."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté individuelle permet de choisir, changer ou abandonner une religion. Elle ne permet pas de violer la loi ni d'imposer ses choix."
+  },
+  {
+    "id": "valeurs_009",
+    "q": "Concernant la pratique de la religion, quelle proposition est correcte ?",
+    "options": [
+      "La France garantit la liberté de croire et de pratiquer sa religion.",
+      "La France impose une religion d'État à tous.",
+      "La pratique religieuse est interdite partout en public.",
+      "Seules certaines religions sont autorisées."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France garantit la liberté de croire et de pratiquer sa religion dans le respect de la loi. L'État protège la liberté de culte sans en imposer aucune."
+  },
+  {
+    "id": "valeurs_010",
+    "q": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+    "options": [
+      "Oui, pour les filles uniquement.",
+      "Oui, sur simple demande écrite.",
+      "Oui, si la religion des parents l'interdit.",
+      "Non, l'école publique est laïque et mixte."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'école publique est laïque et mixte : on ne peut pas refuser la mixité du sport. Filles et garçons suivent les mêmes cours."
+  },
+  {
+    "id": "valeurs_011",
+    "q": "Quelle est la devise de la France ?",
+    "options": [
+      "Liberté, Égalité, Fraternité",
+      "Liberté, Sécurité, Solidarité",
+      "Travail, Famille, Patrie",
+      "Unité, Progrès, Justice"
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La devise de la France est « Liberté, Égalité, Fraternité ». « Travail, Famille, Patrie » était la devise du régime de Vichy."
+  },
+  {
+    "id": "valeurs_012",
+    "q": "La répudiation de sa femme est :",
+    "options": [
+      "Interdite en France.",
+      "Permise après dix ans de mariage.",
+      "Autorisée avec l'accord d'un juge.",
+      "Tolérée dans certaines régions."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La répudiation est interdite en France car contraire à l'égalité hommes-femmes. Seul le divorce légal met fin au mariage."
+  },
+  {
+    "id": "valeurs_013",
+    "q": "Les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+    "options": [
+      "Les impôts sont facultatifs en France.",
+      "Les impôts servent au financement des services publics.",
+      "Les impôts sont reversés directement aux entreprises privées.",
+      "Les impôts financent uniquement le salaire du Président."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les impôts financent les services publics : écoles, hôpitaux, police, justice. Leur paiement est obligatoire pour tous."
+  },
+  {
+    "id": "valeurs_014",
+    "q": "Peut-on brûler publiquement un drapeau français ?",
+    "options": [
+      "Oui, c'est autorisé en privé comme en public.",
+      "Oui, lors des manifestations.",
+      "Oui, au nom de la liberté d'expression.",
+      "Non, cela constitue une offense au symbole national."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Brûler le drapeau français en public est un délit puni par la loi. Le drapeau tricolore est un symbole national à respecter."
+  },
+  {
+    "id": "valeurs_015",
+    "q": "Que fait l’État pour lutter contre les discriminations ?",
+    "options": [
+      "Il se contente de conseils sans valeur légale.",
+      "Il laisse chaque entreprise décider seule.",
+      "Il prend des lois et met en place des organismes.",
+      "Il ne fait rien, c'est une affaire privée."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'État lutte contre les discriminations par des lois et des institutions comme le Défenseur des droits. Les actes discriminatoires sont punis."
+  },
+  {
+    "id": "valeurs_016",
+    "q": "Que représente Marianne ?",
+    "options": [
+      "La République française.",
+      "L'armée française.",
+      "L'Union européenne.",
+      "La ville de Paris."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Marianne incarne la République française et ses valeurs : Liberté, Égalité, Fraternité. C'est une figure allégorique née de la Révolution."
+  },
+  {
+    "id": "valeurs_017",
+    "q": "Qu'est-ce que la liberté d'association ?",
+    "options": [
+      "Le droit de créer des groupes pour des activités communes.",
+      "Le droit d'entrer dans toute association sans cotiser.",
+      "L'obligation d'adhérer à un syndicat.",
+      "L'interdiction de créer des associations."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté d'association permet de créer ou de rejoindre librement un groupe pour un projet commun. Elle est garantie par la loi de 1901."
+  },
+  {
+    "id": "valeurs_018",
+    "q": "Qu'est-ce que la liberté ?",
+    "options": [
+      "Être dispensé de respecter les lois.",
+      "Imposer ses choix aux autres.",
+      "Pouvoir faire tout ce qui ne nuit pas à autrui.",
+      "Pouvoir faire absolument tout ce que l'on veut."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui (article 4 de la DDHC). Elle s'arrête là où commence celle des autres."
+  },
+  {
+    "id": "valeurs_019",
+    "q": "Qu'est-ce que la Marseillaise ?",
+    "options": [
+      "La devise de la République.",
+      "Le nom de l'Assemblée nationale.",
+      "Un poème de Victor Hugo.",
+      "L'hymne national français."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Marseillaise est l'hymne national français. Elle a été composée par Rouget de Lisle en 1792."
+  },
+  {
+    "id": "valeurs_020",
+    "q": "Sur quel document peut-on voir Marianne ?",
+    "options": [
+      "Sur les plaques d'immatriculation.",
+      "Sur les timbres-poste.",
+      "Sur les cartes bancaires.",
+      "Sur les billets de banque en euros."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Marianne figure notamment sur les timbres-poste et les documents officiels de l'État. Elle symbolise la République."
+  },
+  {
+    "id": "valeurs_021",
+    "q": "Un employeur refuse d’embaucher des femmes dans son entreprise. Que dit la loi ?",
+    "options": [
+      "La loi l'interdit.",
+      "C'est permis si l'employeur le justifie.",
+      "La loi ne dit rien à ce sujet.",
+      "C'est autorisé selon le secteur d'activité."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Refuser d'embaucher des femmes est une discrimination interdite par la loi. L'égalité d'accès à l'emploi est garantie."
+  },
+  {
+    "id": "valeurs_022",
+    "q": "Une des valeurs de la devise républicaine est l'égalité. Qu'est-ce que cela signifie ?",
+    "options": [
+      "Que les différences d'opinion sont interdites.",
+      "Que chacun possède les mêmes biens.",
+      "Que tous les citoyens ont les mêmes droits et les mêmes devoirs.",
+      "Que tout le monde gagne le même salaire."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'égalité signifie que tous les citoyens ont les mêmes droits et devoirs et sont égaux devant la loi. Elle ne signifie pas l'uniformité des situations."
+  },
+  {
+    "id": "valeurs_023",
+    "q": "Quelle est la place de la langue française dans la République ?",
+    "options": [
+      "C'est une langue régionale parmi d'autres.",
+      "Elle est facultative dans l'administration.",
+      "Elle est la langue de la République.",
+      "Elle n'a aucun statut officiel."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Le français est la langue de la République (article 2 de la Constitution). C'est la langue officielle de l'administration."
+  },
+  {
+    "id": "valeurs_024",
+    "q": "Quels sont des symboles officiels de la République française ?",
+    "options": [
+      "Le coq, la tour Eiffel et le béret.",
+      "Le drapeau tricolore, Marianne, la Marseillaise.",
+      "La baguette, le vin et le fromage.",
+      "L'euro, l'hymne européen et le drapeau étoilé."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les symboles officiels sont le drapeau tricolore, Marianne, la Marseillaise, la devise et le 14 juillet. Le coq ou la tour Eiffel sont des emblèmes non officiels."
+  },
+  {
+    "id": "valeurs_025",
+    "q": "A-t-on le droit d'insulter publiquement quelqu’un parce qu’il est différent (handicap, apparence physique, sexe…) ?",
+    "options": [
+      "Oui, au nom de la liberté d'expression.",
+      "Oui, si c'est présenté avec humour.",
+      "Non, cela constitue une infraction.",
+      "Oui, en privé uniquement."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Insulter une personne pour ce qu'elle est constitue une infraction punie par la loi (injure, discrimination). Cela porte atteinte à sa dignité."
+  },
+  {
+    "id": "valeurs_026",
+    "q": "Le régime de la France est :",
+    "options": [
+      "Une fédération d'États indépendants.",
+      "Une république semi-présidentielle.",
+      "Une dictature militaire.",
+      "Une monarchie constitutionnelle."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La France est une République démocratique de type semi-présidentiel : un Président élu coexiste avec un gouvernement responsable devant le Parlement."
+  },
+  {
+    "id": "valeurs_027",
+    "q": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+    "options": [
+      "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+      "Pour interdire toute croyance aux élèves.",
+      "Pour imposer une religion commune.",
+      "Pour favoriser les élèves non croyants."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La laïcité à l'école garantit la neutralité de l'enseignement et l'égalité des élèves. Elle protège les enfants de toute pression religieuse."
+  },
+  {
+    "id": "valeurs_028",
+    "q": "En quelle année la loi de séparation des Églises et de l'Etat a-t-elle été votée ?",
+    "options": [
+      "1789",
+      "1958",
+      "1901",
+      "1905"
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La loi de séparation des Églises et de l'État date de 1905. 1789 est la Révolution, 1901 la loi sur les associations, 1958 la Constitution actuelle."
+  },
+  {
+    "id": "valeurs_029",
+    "q": "Une personne a-t-elle le droit de ne pas croire en une religion ?",
+    "options": [
+      "Oui, mais uniquement en secret.",
+      "Non, l'athéisme est interdit.",
+      "Non, il faut obligatoirement déclarer une religion.",
+      "Oui, c'est la liberté de conscience."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Ne pas croire est un droit garanti par la liberté de conscience. Chacun est libre d'avoir une religion ou de n'en avoir aucune."
+  },
+  {
+    "id": "valeurs_030",
+    "q": "Quel droit est garanti par la laïcité ?",
+    "options": [
+      "L'obligation de pratiquer une religion.",
+      "La liberté de conscience.",
+      "L'interdiction de toute religion.",
+      "Le financement des cultes par l'État."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La laïcité garantit la liberté de conscience : croire, ne pas croire ou changer de religion. L'État reste neutre."
+  },
+  {
+    "id": "valeurs_031",
+    "q": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+    "options": [
+      "Les élèves en classe.",
+      "Les agents administratifs de l'école.",
+      "Les enseignants pendant les cours.",
+      "Les parents d'élèves."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "difficile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Les parents d'élèves, simples usagers, peuvent porter des signes religieux. Les élèves (loi de 2004) et les agents publics, tenus à la neutralité, ne le peuvent pas."
+  },
+  {
+    "id": "valeurs_032",
+    "q": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+    "options": [
+      "Que l'État finance toutes les religions à égalité.",
+      "Que l'État choisit une religion majoritaire.",
+      "Que l'État interdit toutes les religions.",
+      "Que l'État n'a pas de religion."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La neutralité signifie que l'État n'a pas de religion, n'en favorise et n'en finance aucune. Il traite toutes les croyances à égalité."
+  },
+  {
+    "id": "valeurs_033",
+    "q": "Que peut faire un usager du service public dans une mairie ?",
+    "options": [
+      "Régler ses amendes de stationnement.",
+      "S'inscrire sur les listes électorales.",
+      "Déposer une plainte pénale.",
+      "Obtenir un permis de conduire."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "En mairie, on peut s'inscrire sur les listes électorales, se marier ou déclarer une naissance. Le permis ou la plainte relèvent d'autres administrations."
+  },
+  {
+    "id": "valeurs_034",
+    "q": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+    "options": [
+      "Les usagers venus faire des démarches.",
+      "Tous les agents publics.",
+      "Les visiteurs étrangers seulement.",
+      "Uniquement le préfet."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Tous les agents publics doivent respecter la neutralité religieuse dans l'exercice de leurs fonctions. Les usagers, eux, n'y sont pas tenus."
+  },
+  {
+    "id": "valeurs_035",
+    "q": "La laïcité impose-t-elle aux agents publics d'être neutres vis-à-vis des usagers ?",
+    "options": [
+      "Uniquement face à un public religieux.",
+      "Non, ils peuvent afficher leurs convictions.",
+      "Oui, ils doivent faire preuve de neutralité.",
+      "Seulement s'ils le souhaitent."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Un agent public doit être neutre pour traiter tous les usagers à égalité. La neutralité s'impose dans l'exercice de ses fonctions."
+  },
+  {
+    "id": "valeurs_036",
+    "q": "Que garantit le principe de laïcité ?",
+    "options": [
+      "Une religion officielle pour tous les citoyens.",
+      "Le financement des Églises par l'impôt.",
+      "La liberté de conscience et la séparation des institutions.",
+      "L'interdiction pure et simple des cultes."
+    ],
+    "answer": 2,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La laïcité garantit la liberté de conscience et la séparation des institutions et des religions. Elle assure l'égalité de tous devant la loi."
+  },
+  {
+    "id": "valeurs_037",
+    "q": "A-t-on le droit de changer de religion ?",
+    "options": [
+      "Non, la religion de naissance est définitive.",
+      "Non, sauf autorisation administrative.",
+      "Oui, mais une seule fois dans sa vie.",
+      "Oui, c'est un droit fondamental."
+    ],
+    "answer": 3,
+    "theme": "valeurs",
+    "difficulte": "facile",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "Changer de religion est un droit fondamental garanti par la liberté de conscience. Chacun est libre de ses convictions."
+  },
+  {
+    "id": "valeurs_038",
+    "q": "Que représente la laïcité ?",
+    "options": [
+      "L'interdiction de croire en Dieu.",
+      "Le respect de toutes les religions et l'absence d'une religion d'État.",
+      "La supériorité d'une religion sur les autres.",
+      "L'obligation d'être athée."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La laïcité représente le respect de toutes les religions et l'absence de religion d'État. Elle permet de vivre ensemble grâce à la neutralité de l'État."
+  },
+  {
+    "id": "valeurs_039",
+    "q": "Qu'est ce qui est interdit par la Charte de la laïcité à l'école ?",
+    "options": [
+      "Porter des signes religieux ostentatoires.",
+      "Parler de ses convictions à la maison.",
+      "Manger à la cantine scolaire.",
+      "Étudier l'histoire des religions en cours."
+    ],
+    "answer": 0,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "La Charte de la laïcité interdit aux élèves le port de signes religieux ostentatoires (loi de 2004). L'étude des faits religieux, elle, est autorisée."
+  },
+  {
+    "id": "valeurs_040",
+    "q": "Que dit l'article 1er de la Constitution française ?",
+    "options": [
+      "La France est une monarchie parlementaire et chrétienne.",
+      "La France est une République indivisible, laïque, démocratique et sociale.",
+      "La France est une fédération d'États souverains.",
+      "La France est une République fédérale et religieuse."
+    ],
+    "answer": 1,
+    "theme": "valeurs",
+    "difficulte": "moyen",
+    "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+    "explication": "L'article 1er dispose que « La France est une République indivisible, laïque, démocratique et sociale ». Ces quatre caractères sont fondamentaux."
+  }
+]

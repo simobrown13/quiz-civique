@@ -1,0 +1,608 @@
+{
+  "id": "examen_09",
+  "titre": "Examen blanc n°9",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "institutions_016",
+      "q": "Que se passe-t-il si un ministre ne respecte pas la loi ?",
+      "options": [
+        "Il reçoit seulement un avertissement.",
+        "Rien : les ministres sont au-dessus des lois.",
+        "Il bénéficie d'une immunité totale à vie.",
+        "Il peut être démis de ses fonctions et poursuivi en justice."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un ministre qui ne respecte pas la loi peut être démis et poursuivi en justice. Nul n'est au-dessus de la loi."
+    },
+    {
+      "id": "institutions_006",
+      "q": "Une personne peut-elle voter à la place d'une autre ?",
+      "options": [
+        "Non, c'est strictement impossible.",
+        "Oui, mais seulement pour un membre de sa famille.",
+        "Oui, librement et sans aucune formalité.",
+        "Oui, avec une procuration officielle."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "On peut voter à la place d'une autre uniquement avec une procuration officielle demandée à l'avance. Le vote reste personnel et secret."
+    },
+    {
+      "id": "societe_026",
+      "q": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "options": [
+        "2 ans",
+        "6 ans",
+        "7 ans",
+        "3 ans"
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Depuis 2019, l'instruction est obligatoire dès 3 ans. Auparavant, elle débutait à 6 ans."
+    },
+    {
+      "id": "droits_033",
+      "q": "Quelle est l'infraction la plus grave ?",
+      "options": [
+        "Le délit.",
+        "Le simple avertissement.",
+        "La contravention.",
+        "Le crime."
+      ],
+      "answer": 3,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'infraction la plus grave est le crime, jugé par la cour d'assises. Viennent ensuite le délit puis la contravention."
+    },
+    {
+      "id": "valeurs_031",
+      "q": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+      "options": [
+        "Les élèves en classe.",
+        "Les agents administratifs de l'école.",
+        "Les enseignants pendant les cours.",
+        "Les parents d'élèves."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents d'élèves, simples usagers, peuvent porter des signes religieux. Les élèves (loi de 2004) et les agents publics, tenus à la neutralité, ne le peuvent pas."
+    },
+    {
+      "id": "societe_025",
+      "q": "Qui peut manger à la cantine scolaire ?",
+      "options": [
+        "Les élèves et le personnel de l'établissement scolaire.",
+        "N'importe quel passant.",
+        "Uniquement les enseignants.",
+        "Seulement les parents d'élèves."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La cantine scolaire accueille les élèves inscrits ainsi que le personnel de l'établissement. Ce n'est pas un restaurant ouvert au public."
+    },
+    {
+      "id": "droits_038",
+      "q": "S'agissant des déchets, quelle proposition est correcte ?",
+      "options": [
+        "Il est important de trier ses déchets pour le recyclage.",
+        "Le tri est inutile pour l'environnement.",
+        "Il faut tout jeter dans la nature.",
+        "Tous les déchets vont dans la même poubelle."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Trier ses déchets permet de recycler le verre, le papier et le plastique. C'est un geste civique pour l'environnement."
+    },
+    {
+      "id": "institutions_018",
+      "q": "Qui peut voter aux élections en France ?",
+      "options": [
+        "Uniquement ceux qui paient des impôts.",
+        "Tous les habitants dès 16 ans.",
+        "Les citoyens français majeurs.",
+        "Toute personne résidant en France."
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Seuls les citoyens français majeurs peuvent voter aux élections nationales. Il faut aussi être inscrit sur les listes électorales."
+    },
+    {
+      "id": "societe_028",
+      "q": "À l'école, il est interdit aux parents de :",
+      "options": [
+        "Voter pour leurs représentants.",
+        "Faire du bruit dans les couloirs pendant les heures de classe.",
+        "Rencontrer les enseignants sur rendez-vous.",
+        "S'informer des résultats de leur enfant."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Il est interdit aux parents de perturber les cours ou de faire du bruit dans l'établissement. En revanche, ils peuvent rencontrer les enseignants sur rendez-vous."
+    },
+    {
+      "id": "droits_032",
+      "q": "Quelle est l’attitude à avoir lorsque qu'on est témoin de violences ?",
+      "options": [
+        "Prodiguer les premiers secours et appeler les secours si nécessaire.",
+        "Ne rien faire pour éviter les ennuis.",
+        "Filmer pour les réseaux sociaux puis partir.",
+        "Participer aux violences."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Témoin de violences, on doit porter secours et alerter la police (17) sans se mettre en danger. La non-assistance est punie par la loi."
+    },
+    {
+      "id": "valeurs_005",
+      "q": "Sur quel site internet peut-on retrouver le symbole de la République française ?",
+      "options": [
+        "service-public.fr",
+        "wikipedia.fr",
+        "google.fr",
+        "leboncoin.fr"
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les symboles de la République figurent sur les sites officiels de l'État, qui se terminent par .gouv.fr (service-public.fr, gouvernement.fr). Les sites privés ne font pas autorité."
+    },
+    {
+      "id": "societe_030",
+      "q": "Des parents ne respectent pas l'obligation d'instruction pour leurs enfants. Quelle sanction maximale risquent-ils ?",
+      "options": [
+        "Le retrait du permis de conduire.",
+        "Une amende de 7 500 euros et 6 mois d'emprisonnement.",
+        "Aucune sanction n'est prévue.",
+        "Un simple avertissement oral."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Ne pas respecter l'obligation d'instruction expose à une amende pouvant atteindre 7 500 euros et 6 mois d'emprisonnement. L'instruction est un droit de l'enfant."
+    },
+    {
+      "id": "histoire_001",
+      "q": "Quel était le surnom de Louis XIV ?",
+      "options": [
+        "Le Bien-Aimé.",
+        "Le Roi de Fer.",
+        "Le Roi Soleil.",
+        "Le Roi Lune."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Louis XIV était surnommé le Roi Soleil. Il a régné de 1643 à 1715 et fait construire le château de Versailles."
+    },
+    {
+      "id": "institutions_013",
+      "q": "Pourquoi séparer les trois pouvoirs dans une démocratie ?",
+      "options": [
+        "Pour éviter la concentration du pouvoir et garantir les libertés.",
+        "Pour donner tout le pouvoir au gouvernement.",
+        "Pour supprimer le rôle des juges.",
+        "Pour accélérer les décisions du Président."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La séparation des pouvoirs évite leur concentration entre les mains d'une seule personne. Elle protège les libertés des citoyens."
+    },
+    {
+      "id": "histoire_023",
+      "q": "Quelle ville française est un port maritime ?",
+      "options": [
+        "Lyon.",
+        "Marseille.",
+        "Toulouse.",
+        "Strasbourg."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Marseille, Le Havre et Bordeaux sont des ports maritimes. Lyon ou Toulouse sont des villes de l'intérieur."
+    },
+    {
+      "id": "valeurs_033",
+      "q": "Que peut faire un usager du service public dans une mairie ?",
+      "options": [
+        "Régler ses amendes de stationnement.",
+        "S'inscrire sur les listes électorales.",
+        "Déposer une plainte pénale.",
+        "Obtenir un permis de conduire."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "En mairie, on peut s'inscrire sur les listes électorales, se marier ou déclarer une naissance. Le permis ou la plainte relèvent d'autres administrations."
+    },
+    {
+      "id": "valeurs_012",
+      "q": "La répudiation de sa femme est :",
+      "options": [
+        "Interdite en France.",
+        "Permise après dix ans de mariage.",
+        "Autorisée avec l'accord d'un juge.",
+        "Tolérée dans certaines régions."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La répudiation est interdite en France car contraire à l'égalité hommes-femmes. Seul le divorce légal met fin au mariage."
+    },
+    {
+      "id": "valeurs_032",
+      "q": "Selon le principe de laïcité, que signifie la neutralité de l’État ?",
+      "options": [
+        "Que l'État finance toutes les religions à égalité.",
+        "Que l'État choisit une religion majoritaire.",
+        "Que l'État interdit toutes les religions.",
+        "Que l'État n'a pas de religion."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La neutralité signifie que l'État n'a pas de religion, n'en favorise et n'en finance aucune. Il traite toutes les croyances à égalité."
+    },
+    {
+      "id": "societe_014",
+      "q": "Qui peut demander un congé parental d'éducation ?",
+      "options": [
+        "Les pères et les mères salariés qui élèvent un enfant.",
+        "Seulement les grands-parents.",
+        "Uniquement les fonctionnaires.",
+        "Uniquement les mères."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le congé parental d'éducation peut être demandé par le père comme par la mère salariés. Il permet de s'occuper d'un enfant après sa naissance."
+    },
+    {
+      "id": "histoire_033",
+      "q": "Parmi ces pays, lequel attire le plus de visiteurs chaque année ?",
+      "options": [
+        "La Russie.",
+        "La France.",
+        "Le Canada.",
+        "L'Allemagne."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France est le pays qui attire le plus de visiteurs chaque année. C'est la première destination touristique mondiale."
+    },
+    {
+      "id": "histoire_039",
+      "q": "Combien de personnes parlent français dans le monde ?",
+      "options": [
+        "Environ 1 milliard.",
+        "Environ 10 millions.",
+        "Environ 300 millions.",
+        "Environ 50 millions."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Environ 300 millions de personnes parlent français dans le monde. La francophonie est présente sur les cinq continents."
+    },
+    {
+      "id": "droits_022",
+      "q": "L'État peut-il limiter les droits et libertés ?",
+      "options": [
+        "Oui, si la loi le prévoit pour des raisons d'intérêt général.",
+        "Non, jamais, en aucune circonstance.",
+        "Oui, à tout moment et sans justification.",
+        "Oui, selon la seule volonté du Président."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État peut limiter des droits si la loi le prévoit pour l'intérêt général (sécurité, santé). Ces limites doivent rester proportionnées."
+    },
+    {
+      "id": "valeurs_034",
+      "q": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+      "options": [
+        "Les usagers venus faire des démarches.",
+        "Tous les agents publics.",
+        "Les visiteurs étrangers seulement.",
+        "Uniquement le préfet."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Tous les agents publics doivent respecter la neutralité religieuse dans l'exercice de leurs fonctions. Les usagers, eux, n'y sont pas tenus."
+    },
+    {
+      "id": "histoire_043",
+      "q": "Qui était Auguste Rodin ?",
+      "options": [
+        "Un compositeur.",
+        "Un sculpteur.",
+        "Un écrivain.",
+        "Un homme politique."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Auguste Rodin était un sculpteur. Il est célèbre pour Le Penseur et Le Baiser."
+    },
+    {
+      "id": "valeurs_011",
+      "q": "Quelle est la devise de la France ?",
+      "options": [
+        "Liberté, Égalité, Fraternité",
+        "Liberté, Sécurité, Solidarité",
+        "Travail, Famille, Patrie",
+        "Unité, Progrès, Justice"
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La devise de la France est « Liberté, Égalité, Fraternité ». « Travail, Famille, Patrie » était la devise du régime de Vichy."
+    },
+    {
+      "id": "histoire_047",
+      "q": "Qui était un célèbre musicien français ?",
+      "options": [
+        "Ludwig van Beethoven, allemand.",
+        "Wolfgang Mozart, autrichien.",
+        "Claude Debussy.",
+        "Johann Strauss, autrichien."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+    },
+    {
+      "id": "institutions_050",
+      "q": "Quel pays est un pays fondateur de l'Union européenne ?",
+      "options": [
+        "La Pologne.",
+        "L'Allemagne.",
+        "La Suède.",
+        "L'Espagne."
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les six pays fondateurs sont la France, l'Allemagne, l'Italie, la Belgique, les Pays-Bas et le Luxembourg. Ils ont signé le traité de Rome en 1957."
+    },
+    {
+      "id": "societe_007",
+      "q": "Un bail locatif est valide s'il est :",
+      "options": [
+        "Conclu uniquement à l'oral.",
+        "Validé par la mairie.",
+        "Écrit et signé par les deux parties.",
+        "Signé par le locataire seul."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Un bail locatif doit être écrit et signé par le propriétaire et le locataire. L'écrit protège les deux parties."
+    },
+    {
+      "id": "institutions_048",
+      "q": "À quelle fréquence les élections européennes sont-elles organisées ?",
+      "options": [
+        "Tous les 6 ans",
+        "Tous les 4 ans",
+        "Tous les 5 ans",
+        "Tous les 7 ans"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les élections européennes ont lieu tous les 5 ans. Elles désignent les députés du Parlement européen."
+    },
+    {
+      "id": "valeurs_001",
+      "q": "Parmi les propositions suivantes, laquelle constitue une participation citoyenne ?",
+      "options": [
+        "Partir en vacances à l'étranger.",
+        "Voter aux élections.",
+        "Faire ses courses au supermarché.",
+        "Regarder la télévision le soir."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Voter est un acte fondamental de participation citoyenne. S'engager dans une association ou payer ses impôts en sont aussi."
+    },
+    {
+      "id": "institutions_014",
+      "q": "Qui sanctionne l'auteur d'un vol ?",
+      "options": [
+        "Le pouvoir judiciaire (les juges).",
+        "Le Président de la République.",
+        "L'Assemblée nationale.",
+        "Le maire de la commune."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "C'est le pouvoir judiciaire, par l'intermédiaire des juges, qui sanctionne l'auteur d'un vol. La justice juge les infractions."
+    },
+    {
+      "id": "droits_007",
+      "q": "Le recours à l'avortement est-il autorisé ?",
+      "options": [
+        "Oui, sous conditions et dans le respect de la loi.",
+        "Oui, sans aucune limite de délai.",
+        "Uniquement avec l'accord du conjoint.",
+        "Non, c'est interdit en France."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'avortement (IVG) est autorisé sous conditions et dans le respect de la loi. C'est une liberté garantie par la Constitution."
+    },
+    {
+      "id": "droits_015",
+      "q": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+      "options": [
+        "La liberté de circulation.",
+        "La liberté de conscience.",
+        "La liberté du commerce.",
+        "La liberté de la presse."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de conscience permet de croire en la religion de son choix, d'en changer ou de n'en avoir aucune. Elle est garantie par la laïcité."
+    },
+    {
+      "id": "histoire_009",
+      "q": "Quelle est la première étape de la construction européenne en 1951 ?",
+      "options": [
+        "La signature du traité de Maastricht.",
+        "La création de l'euro.",
+        "La création de l'ONU.",
+        "La création de la Communauté européenne du charbon et de l'acier (CECA)."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La première étape de la construction européenne est la CECA (1951), qui met en commun le charbon et l'acier de six pays. Elle découle de la déclaration Schuman."
+    },
+    {
+      "id": "institutions_003",
+      "q": "La loi est l'expression de :",
+      "options": [
+        "La volonté des juges.",
+        "La volonté des grandes entreprises.",
+        "La décision du Président seul.",
+        "La volonté du peuple."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La loi est l'expression de la volonté générale (article 6 de la DDHC). Elle est votée par les représentants du peuple."
+    },
+    {
+      "id": "droits_005",
+      "q": "La peine de mort est :",
+      "options": [
+        "Suspendue mais toujours légale.",
+        "Abolie",
+        "Décidée au cas par cas par le Président.",
+        "Autorisée pour les crimes les plus graves."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La peine de mort est abolie en France depuis 1981. Son abolition est inscrite dans la Constitution depuis 2007."
+    },
+    {
+      "id": "societe_001",
+      "q": "Quel mariage est reconnu par l'État ?",
+      "options": [
+        "Le simple concubinage.",
+        "Le mariage religieux uniquement.",
+        "Le mariage célébré à l'étranger sans transcription.",
+        "Le mariage civil célébré à la mairie."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Seul le mariage civil célébré à la mairie est reconnu par l'État. Un éventuel mariage religieux ne peut avoir lieu qu'après."
+    },
+    {
+      "id": "droits_011",
+      "q": "Que signifie la dignité humaine ?",
+      "options": [
+        "La reconnaissance de la valeur intrinsèque de chaque personne, indépendamment de ses caractéristiques.",
+        "Un privilège accordé par l'État.",
+        "Une valeur réservée aux seuls citoyens français.",
+        "Le droit d'être plus respecté selon sa fortune."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La dignité humaine reconnaît la valeur de chaque personne, quelles que soient ses caractéristiques. Aucun être humain ne peut être traité comme un objet."
+    },
+    {
+      "id": "societe_006",
+      "q": "Quelle est l'une des conditions pour passer l'examen du permis de conduire ?",
+      "options": [
+        "Posséder déjà une voiture.",
+        "Être propriétaire de son logement.",
+        "Avoir un emploi.",
+        "Avoir suivi une formation obligatoire."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Passer le permis suppose une formation en auto-école, la réussite du code et un âge minimum. Aucune condition de patrimoine n'est exigée."
+    },
+    {
+      "id": "histoire_041",
+      "q": "Quel peintre est français ?",
+      "options": [
+        "Pablo Picasso, espagnol.",
+        "Claude Monet.",
+        "Léonard de Vinci, italien.",
+        "Vincent van Gogh, néerlandais."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Claude Monet, Renoir, Cézanne ou Degas sont des peintres français. Monet est une figure majeure de l'impressionnisme."
+    }
+  ]
+}

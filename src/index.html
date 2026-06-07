@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulateur Examen Civique — Carte de Résident</title>
+  <style>
+    /* === styles.css sera inliné ici par le build === */
+  </style>
+</head>
+<body>
+
+  <!-- ========== HEADER ========== -->
+  <header id="appHeader">
+    <div class="drapeau"><div class="b"></div><div class="w"></div><div class="r"></div></div>
+    <h1>Simulateur d'Examen Civique</h1>
+    <p class="subtitle">Carte de Résident · Format Officiel</p>
+  </header>
+
+  <!-- ========== ACCUEIL ========== -->
+  <div id="screenHome">
+    <div class="home-meta">40 questions · 45 min · Seuil 80%</div>
+    <div class="home-actions">
+      <button id="btnStartExam" class="btn btn-primary btn-large" onclick="startSimulator()">
+        🎓 Simuler l'examen
+      </button>
+      <button id="btnStartTheme" class="btn btn-outline btn-large" onclick="showThemeSelect()">
+        📚 Réviser par thème
+      </button>
+      <button id="btnStartRevision" class="btn btn-outline btn-large" onclick="startRevision()">
+        🔍 Mode révision (40 Q, sans chrono)
+      </button>
+    </div>
+    <div id="historyBox" class="history-box" style="display:none"></div>
+  </div>
+
+  <!-- ========== LOADING ========== -->
+  <div id="screenLoading" style="display:none">
+    <div class="loader-ring"></div>
+    <div class="loader-title" id="loaderTitle">Préparation de l'examen…</div>
+    <div class="loader-text" id="loaderText">Génération de 40 questions sur 5 thèmes</div>
+    <div class="loader-step" id="loaderStep">Connexion…</div>
+    <div class="loader-bar-bg">
+      <div class="loader-bar-fill" id="loaderBar"></div>
+    </div>
+  </div>
+
+  <!-- ========== ERREUR ========== -->
+  <div id="screenError" style="display:none">
+    <div class="error-icon">⚠️</div>
+    <div class="error-msg" id="errorMsg"></div>
+    <button class="btn btn-primary" onclick="location.reload()">Réessayer</button>
+  </div>
+
+  <!-- ========== SÉLECTION THÈME ========== -->
+  <div id="screenThemeSelect" style="display:none">
+    <h2 class="screen-title">Choisir un thème</h2>
+    <div id="themeCards" class="theme-grid">
+      <!-- Injecté par JS depuis themes.json -->
+    </div>
+    <button class="btn btn-outline btn-sm" onclick="showHome()">← Retour</button>
+  </div>
+
+  <!-- ========== HEADER EXAMEN ========== -->
+  <div id="examHeader" style="display:none">
+    <div class="exam-meta-row">
+      <div class="exam-meta-left">
+        <div class="exam-label">Examen Civique — Carte de Résident</div>
+        <div class="exam-progress" id="examProgress">Question 1 / 40</div>
+      </div>
+      <div class="chrono-wrap">
+        <span class="chrono-icon">⏱</span>
+        <span class="chrono" id="chrono">45:00</span>
+      </div>
+    </div>
+    <div class="bar-bg">
+      <div class="bar-fill" id="barFill" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- ========== NAV QUESTIONS ========== -->
+  <div id="questionNav" style="display:none">
+    <span class="nav-toggle" onclick="toggleNav()" id="navToggleBtn">▾ Navigation rapide</span>
+    <div class="nav-grid" id="navGrid" style="display:none"></div>
+  </div>
+
+  <!-- ========== CARD QUESTION ========== -->
+  <div class="card" id="quizCard" style="display:none">
+    <div class="q-tag">
+      <span class="q-number" id="qNumber">Q1</span>
+      <span class="q-tag-theme" id="qTheme"></span>
+    </div>
+    <div class="question" id="questionText"></div>
+    <div class="options" id="optionsContainer"></div>
+    <!-- Mode quiz thème : correction immédiate -->
+    <div class="explication" id="explication" style="display:none"></div>
+    <div class="card-footer" id="cardFooter"></div>
+  </div>
+
+  <!-- ========== RÉSULTATS ========== -->
+  <div id="screenResult" style="display:none">
+    <div class="result-header">
+      <div class="result-badge-wrap">
+        <span class="result-badge" id="resultBadge"></span>
+      </div>
+      <div class="score-display">
+        <div class="score-big" id="scoreBig"></div>
+        <div class="score-detail">
+          <div class="score-fraction" id="scoreFraction"></div>
+          <div class="score-pct" id="scorePct"></div>
+          <div class="score-seuil">Seuil requis : 80% (32/40)</div>
+        </div>
+      </div>
+      <div class="result-verdict" id="resultVerdict"></div>
+      <div class="result-msg" id="resultMsg"></div>
+      <div class="themes-section">
+        <div class="themes-title">Résultats par thème</div>
+        <div id="themeStats"></div>
+      </div>
+    </div>
+    <div class="result-actions">
+      <button class="btn btn-primary" onclick="restart()">🔄 Nouvel examen</button>
+      <button class="btn btn-outline" onclick="toggleReview()" id="btnReview">📋 Corriger</button>
+    </div>
+    <div id="reviewSection" style="display:none">
+      <div class="review-title">Correction — Questions ratées</div>
+      <div id="reviewItems"></div>
+    </div>
+  </div>
+
+  <!-- ========== ATTRIBUTION (Licence Ouverte 2.0 Etalab) ========== -->
+  <footer id="appFooter">
+    Questions officielles : formation-civique.interieur.gouv.fr —
+    Réponses suggérées : leqcmcivique.fr —
+    Licence Ouverte 2.0 (Etalab)
+  </footer>
+
+  <script>
+    /* === quiz.js + timer.js + results.js + api.js seront inlinés ici === */
+    /* === window.QUESTIONS_FALLBACK sera injecté ici par le build === */
+  </script>
+</body>
+</html>

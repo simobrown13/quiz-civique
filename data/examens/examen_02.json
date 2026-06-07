@@ -1,0 +1,608 @@
+{
+  "id": "examen_02",
+  "titre": "Examen blanc n°2",
+  "duree_minutes": 45,
+  "seuil_reussite": 80,
+  "questions": [
+    {
+      "id": "droits_009",
+      "q": "Que garantit la liberté de la presse ?",
+      "options": [
+        "L'obligation pour l'État de valider chaque article.",
+        "La liberté de publier des informations sans contrôle préalable.",
+        "Le droit de publier de fausses informations.",
+        "Le droit de diffamer librement."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de la presse permet aux journalistes d'informer sans contrôle préalable de l'État. Elle reste limitée par la loi (diffamation, injure)."
+    },
+    {
+      "id": "institutions_006",
+      "q": "Une personne peut-elle voter à la place d'une autre ?",
+      "options": [
+        "Non, c'est strictement impossible.",
+        "Oui, mais seulement pour un membre de sa famille.",
+        "Oui, librement et sans aucune formalité.",
+        "Oui, avec une procuration officielle."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "On peut voter à la place d'une autre uniquement avec une procuration officielle demandée à l'avance. Le vote reste personnel et secret."
+    },
+    {
+      "id": "societe_020",
+      "q": "Dans une entreprise, le droit de grève autorise :",
+      "options": [
+        "De dégrader le matériel de l'entreprise.",
+        "D'empêcher les autres de travailler par la force.",
+        "De quitter son emploi sans préavis.",
+        "L'arrêt collectif et concerté du travail pour soutenir des revendications professionnelles."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le droit de grève autorise l'arrêt collectif et concerté du travail pour des revendications professionnelles. Il s'exerce dans le respect de la loi."
+    },
+    {
+      "id": "societe_010",
+      "q": "Concernant l'accès aux soins, quelle proposition est correcte ?",
+      "options": [
+        "Seuls les fonctionnaires sont remboursés.",
+        "L'Assurance Maladie rembourse une partie des frais de santé.",
+        "Les soins sont entièrement gratuits pour tous, sans exception.",
+        "Le patient paie toujours la totalité, sans remboursement."
+      ],
+      "answer": 1,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Assurance Maladie (Sécurité sociale) rembourse une partie des frais de santé. Une complémentaire santé peut couvrir le reste."
+    },
+    {
+      "id": "institutions_033",
+      "q": "Depuis quand l'euro est-elle la monnaie unique ?",
+      "options": [
+        "2000",
+        "1992",
+        "2002",
+        "1999"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les pièces et billets en euros circulent depuis 2002. L'euro existait comme monnaie de compte depuis 1999."
+    },
+    {
+      "id": "valeurs_031",
+      "q": "À l'école publique, qui peut porter des signes religieux très visibles ?",
+      "options": [
+        "Les élèves en classe.",
+        "Les agents administratifs de l'école.",
+        "Les enseignants pendant les cours.",
+        "Les parents d'élèves."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les parents d'élèves, simples usagers, peuvent porter des signes religieux. Les élèves (loi de 2004) et les agents publics, tenus à la neutralité, ne le peuvent pas."
+    },
+    {
+      "id": "valeurs_018",
+      "q": "Qu'est-ce que la liberté ?",
+      "options": [
+        "Être dispensé de respecter les lois.",
+        "Imposer ses choix aux autres.",
+        "Pouvoir faire tout ce qui ne nuit pas à autrui.",
+        "Pouvoir faire absolument tout ce que l'on veut."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui (article 4 de la DDHC). Elle s'arrête là où commence celle des autres."
+    },
+    {
+      "id": "histoire_038",
+      "q": "Quand peut-on visiter gratuitement des lieux culturels en France ?",
+      "options": [
+        "Lors des Journées Européennes du Patrimoine.",
+        "Le 1er janvier de chaque année.",
+        "Pendant les vacances de Noël.",
+        "Tous les jours fériés."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Les Journées Européennes du Patrimoine, en septembre, permettent de visiter gratuitement de nombreux lieux culturels. Monuments et musées ouvrent leurs portes."
+    },
+    {
+      "id": "institutions_038",
+      "q": "Quel État a quitté l'Union européenne en 2020 ?",
+      "options": [
+        "L'Espagne",
+        "La Grèce",
+        "Le Royaume-Uni",
+        "L'Italie"
+      ],
+      "answer": 2,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Royaume-Uni a quitté l'Union européenne en 2020 : c'est le Brexit. C'est le premier État à se retirer de l'Union."
+    },
+    {
+      "id": "societe_023",
+      "q": "Comment s'appelle le diplôme passé par les élèves à la fin du collège ?",
+      "options": [
+        "Le baccalauréat.",
+        "Le CAP.",
+        "La licence.",
+        "Le brevet des collèges."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "À la fin du collège, les élèves passent le brevet des collèges (DNB). Le baccalauréat, lui, sanctionne la fin du lycée."
+    },
+    {
+      "id": "droits_003",
+      "q": "Concernant le droit de se marier, quelle proposition est correcte ?",
+      "options": [
+        "Le mariage est un contrat civil, pour deux personnes majeures de même sexe ou de sexe différent.",
+        "Le mariage n'est autorisé qu'entre un homme et une femme.",
+        "Le mariage religieux suffit à être reconnu par l'État.",
+        "On peut se marier dès 15 ans sans condition."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le mariage est un contrat civil ouvert à deux personnes majeures, de même sexe ou de sexe différent (loi de 2013). Seul le mariage civil est reconnu par l'État."
+    },
+    {
+      "id": "institutions_040",
+      "q": "Quel est l'hymne de l'Union européenne ?",
+      "options": [
+        "L'Ode à la Joie.",
+        "Le God Save the King.",
+        "La Marseillaise.",
+        "L'Hymne à l'amour."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'hymne européen est l'Ode à la Joie, extraite de la 9e symphonie de Beethoven. Il est joué sans paroles."
+    },
+    {
+      "id": "societe_026",
+      "q": "À quel âge commence l'instruction obligatoire des enfants ?",
+      "options": [
+        "2 ans",
+        "6 ans",
+        "7 ans",
+        "3 ans"
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Depuis 2019, l'instruction est obligatoire dès 3 ans. Auparavant, elle débutait à 6 ans."
+    },
+    {
+      "id": "droits_010",
+      "q": "Que prévoit la Charte de l'environnement ?",
+      "options": [
+        "Le droit de vivre dans un environnement équilibré et respectueux de la santé.",
+        "L'obligation d'utiliser une voiture électrique.",
+        "L'interdiction de toute activité industrielle.",
+        "Le droit de polluer si l'on paie une taxe."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de l'environnement (2004) garantit le droit de vivre dans un environnement sain et le devoir de le protéger. Elle a valeur constitutionnelle."
+    },
+    {
+      "id": "histoire_018",
+      "q": "Où a eu lieu le débarquement en 1944 ?",
+      "options": [
+        "Dans le Nord, près de Calais.",
+        "Sur la côte belge.",
+        "En Normandie.",
+        "En Bretagne."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le débarquement allié du 6 juin 1944 a eu lieu sur les plages de Normandie. Il marque le début de la libération de l'Europe."
+    },
+    {
+      "id": "valeurs_034",
+      "q": "Qui doit respecter le principe de neutralité religieuse dans une préfecture ?",
+      "options": [
+        "Les usagers venus faire des démarches.",
+        "Tous les agents publics.",
+        "Les visiteurs étrangers seulement.",
+        "Uniquement le préfet."
+      ],
+      "answer": 1,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Tous les agents publics doivent respecter la neutralité religieuse dans l'exercice de leurs fonctions. Les usagers, eux, n'y sont pas tenus."
+    },
+    {
+      "id": "institutions_009",
+      "q": "Qui dirige l'action du Gouvernement ?",
+      "options": [
+        "Le Conseil constitutionnel.",
+        "Le Parlement.",
+        "Le Président de la République.",
+        "Le Premier ministre."
+      ],
+      "answer": 3,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Premier ministre dirige l'action du Gouvernement (article 21 de la Constitution). Il met en œuvre la politique du pays."
+    },
+    {
+      "id": "droits_027",
+      "q": "Que doit faire une victime de violences ?",
+      "options": [
+        "Attendre que la situation s'arrange seule.",
+        "Garder le silence.",
+        "Porter plainte et se faire aider par les autorités et les associations.",
+        "Se venger elle-même."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Une victime de violences doit porter plainte et se faire aider par les autorités et les associations. Elle peut appeler les numéros d'urgence."
+    },
+    {
+      "id": "histoire_030",
+      "q": "Lequel de ces pays partage des frontières terrestres avec la France ?",
+      "options": [
+        "Le Danemark.",
+        "La Grèce.",
+        "L'Italie.",
+        "Le Portugal."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'Italie, l'Allemagne, l'Espagne, la Belgique, la Suisse et le Luxembourg partagent une frontière terrestre avec la France. Le Portugal n'en a pas."
+    },
+    {
+      "id": "institutions_004",
+      "q": "Quelle est la durée du mandat du conseil municipal et du maire ?",
+      "options": [
+        "4 ans",
+        "6 ans",
+        "5 ans",
+        "7 ans"
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le maire et le conseil municipal sont élus pour 6 ans. Les élections municipales ont lieu tous les six ans."
+    },
+    {
+      "id": "droits_011",
+      "q": "Que signifie la dignité humaine ?",
+      "options": [
+        "La reconnaissance de la valeur intrinsèque de chaque personne, indépendamment de ses caractéristiques.",
+        "Un privilège accordé par l'État.",
+        "Une valeur réservée aux seuls citoyens français.",
+        "Le droit d'être plus respecté selon sa fortune."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "difficile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La dignité humaine reconnaît la valeur de chaque personne, quelles que soient ses caractéristiques. Aucun être humain ne peut être traité comme un objet."
+    },
+    {
+      "id": "institutions_028",
+      "q": "Quel est le rôle du président de la République ?",
+      "options": [
+        "Il vote les lois à l'Assemblée nationale.",
+        "Il est le Chef de l'État et des Armées.",
+        "Il juge les affaires pénales.",
+        "Il dirige le conseil municipal."
+      ],
+      "answer": 1,
+      "theme": "institutions",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Président est le chef de l'État et le chef des armées. Il veille au respect de la Constitution."
+    },
+    {
+      "id": "valeurs_027",
+      "q": "Pourquoi le principe de laïcité doit-il être respecté à l'école ?",
+      "options": [
+        "Pour garantir la neutralité de l'enseignement et l'égalité de tous les élèves.",
+        "Pour interdire toute croyance aux élèves.",
+        "Pour imposer une religion commune.",
+        "Pour favoriser les élèves non croyants."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La laïcité à l'école garantit la neutralité de l'enseignement et l'égalité des élèves. Elle protège les enfants de toute pression religieuse."
+    },
+    {
+      "id": "valeurs_015",
+      "q": "Que fait l’État pour lutter contre les discriminations ?",
+      "options": [
+        "Il se contente de conseils sans valeur légale.",
+        "Il laisse chaque entreprise décider seule.",
+        "Il prend des lois et met en place des organismes.",
+        "Il ne fait rien, c'est une affaire privée."
+      ],
+      "answer": 2,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État lutte contre les discriminations par des lois et des institutions comme le Défenseur des droits. Les actes discriminatoires sont punis."
+    },
+    {
+      "id": "valeurs_039",
+      "q": "Qu'est ce qui est interdit par la Charte de la laïcité à l'école ?",
+      "options": [
+        "Porter des signes religieux ostentatoires.",
+        "Parler de ses convictions à la maison.",
+        "Manger à la cantine scolaire.",
+        "Étudier l'histoire des religions en cours."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Charte de la laïcité interdit aux élèves le port de signes religieux ostentatoires (loi de 2004). L'étude des faits religieux, elle, est autorisée."
+    },
+    {
+      "id": "histoire_006",
+      "q": "Pourquoi la Shoah est-elle étudiée à l'école ?",
+      "options": [
+        "Pour glorifier la guerre.",
+        "Pour comprendre l'antisémitisme et prévenir de futures atrocités.",
+        "Parce que c'est une simple anecdote historique.",
+        "Pour désigner des coupables aujourd'hui."
+      ],
+      "answer": 1,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La Shoah est étudiée pour comprendre l'antisémitisme et empêcher que de telles atrocités se reproduisent. C'est un devoir de mémoire."
+    },
+    {
+      "id": "societe_029",
+      "q": "Quel motif d'absence est accepté par l'école ?",
+      "options": [
+        "Une simple envie de rester à la maison.",
+        "Des vacances hors des congés scolaires.",
+        "Faire les courses en famille.",
+        "Une maladie de l'enfant."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Une maladie de l'enfant ou un événement familial grave sont des motifs d'absence acceptés. Les absences doivent être justifiées auprès de l'école."
+    },
+    {
+      "id": "droits_015",
+      "q": "Quelle liberté permet à une personne de croire en la religion de son choix ?",
+      "options": [
+        "La liberté de circulation.",
+        "La liberté de conscience.",
+        "La liberté du commerce.",
+        "La liberté de la presse."
+      ],
+      "answer": 1,
+      "theme": "droits",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La liberté de conscience permet de croire en la religion de son choix, d'en changer ou de n'en avoir aucune. Elle est garantie par la laïcité."
+    },
+    {
+      "id": "histoire_034",
+      "q": "Où habite la majorité des Français ?",
+      "options": [
+        "Dans les villages de montagne.",
+        "Principalement à l'étranger.",
+        "Sur les îles d'outre-mer.",
+        "Dans les grandes villes et leurs périphéries (zones urbaines)."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La majorité des Français habitent dans les zones urbaines : grandes villes et leurs périphéries. La population est très urbanisée."
+    },
+    {
+      "id": "societe_003",
+      "q": "En cas de divorce, qui exerce l'autorité parentale ?",
+      "options": [
+        "Les grands-parents.",
+        "Uniquement le père.",
+        "Les deux parents, sauf décision contraire du juge.",
+        "Uniquement la mère."
+      ],
+      "answer": 2,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Après un divorce, l'autorité parentale est exercée par les deux parents, sauf décision contraire du juge. L'intérêt de l'enfant prime."
+    },
+    {
+      "id": "droits_016",
+      "q": "Qu'est-ce que le droit de grève ?",
+      "options": [
+        "L'obligation de travailler les jours fériés.",
+        "Le droit de l'employeur de fermer l'entreprise.",
+        "Le droit pour les salariés de cesser collectivement le travail pour défendre leurs intérêts.",
+        "Le droit de démissionner sans préavis."
+      ],
+      "answer": 2,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le droit de grève permet aux salariés de cesser collectivement le travail pour défendre leurs intérêts. C'est un droit constitutionnel."
+    },
+    {
+      "id": "societe_014",
+      "q": "Qui peut demander un congé parental d'éducation ?",
+      "options": [
+        "Les pères et les mères salariés qui élèvent un enfant.",
+        "Seulement les grands-parents.",
+        "Uniquement les fonctionnaires.",
+        "Uniquement les mères."
+      ],
+      "answer": 0,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le congé parental d'éducation peut être demandé par le père comme par la mère salariés. Il permet de s'occuper d'un enfant après sa naissance."
+    },
+    {
+      "id": "histoire_047",
+      "q": "Qui était un célèbre musicien français ?",
+      "options": [
+        "Ludwig van Beethoven, allemand.",
+        "Wolfgang Mozart, autrichien.",
+        "Claude Debussy.",
+        "Johann Strauss, autrichien."
+      ],
+      "answer": 2,
+      "theme": "histoire",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Debussy, Ravel, Berlioz ou Bizet sont des musiciens français. Bizet est l'auteur de l'opéra Carmen."
+    },
+    {
+      "id": "societe_004",
+      "q": "Quelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+      "options": [
+        "Le revenu de solidarité active (RSA).",
+        "L'aide personnalisée au logement (APL).",
+        "L'allocation chômage.",
+        "L'aide juridictionnelle."
+      ],
+      "answer": 3,
+      "theme": "societe",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'aide juridictionnelle permet aux personnes aux revenus modestes de payer un avocat. L'État prend en charge tout ou partie des frais de justice."
+    },
+    {
+      "id": "histoire_048",
+      "q": "Qui était Auguste Renoir ?",
+      "options": [
+        "Un écrivain.",
+        "Un sculpteur.",
+        "Un musicien.",
+        "Un peintre."
+      ],
+      "answer": 3,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Auguste Renoir était un peintre impressionniste. Il est connu pour ses scènes de la vie parisienne."
+    },
+    {
+      "id": "institutions_041",
+      "q": "De quoi est composé le drapeau européen ?",
+      "options": [
+        "D'étoiles sur fond bleu.",
+        "D'une croix blanche sur fond bleu.",
+        "De bandes bleues et jaunes.",
+        "D'un cercle d'or sur fond vert."
+      ],
+      "answer": 0,
+      "theme": "institutions",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le drapeau européen présente douze étoiles jaunes en cercle sur fond bleu. Le nombre douze symbolise la perfection et l'unité."
+    },
+    {
+      "id": "droits_002",
+      "q": "Au nom de quoi l'État justifie-t-il la restriction des droits ?",
+      "options": [
+        "Au nom de la sécurité publique et de la protection des droits d'autrui.",
+        "Au nom des intérêts d'un parti politique.",
+        "Pour augmenter ses recettes fiscales.",
+        "Selon l'humeur des dirigeants."
+      ],
+      "answer": 0,
+      "theme": "droits",
+      "difficulte": "moyen",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'État ne peut restreindre les droits que pour la sécurité publique, la santé publique ou la protection d'autrui. Ces limites doivent être prévues par la loi."
+    },
+    {
+      "id": "histoire_042",
+      "q": "Quel musée est situé à Paris ?",
+      "options": [
+        "Le musée du Louvre.",
+        "Le musée du Prado, à Madrid.",
+        "Les Offices, à Florence.",
+        "Le British Museum, à Londres."
+      ],
+      "answer": 0,
+      "theme": "histoire",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "Le Louvre, le musée d'Orsay et le Centre Pompidou sont à Paris. Le Louvre abrite notamment la Joconde."
+    },
+    {
+      "id": "valeurs_010",
+      "q": "En tant que parent, peut-on refuser que son enfant participe aux cours de sport à l'école car ils sont mixtes ?",
+      "options": [
+        "Oui, pour les filles uniquement.",
+        "Oui, sur simple demande écrite.",
+        "Oui, si la religion des parents l'interdit.",
+        "Non, l'école publique est laïque et mixte."
+      ],
+      "answer": 3,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "L'école publique est laïque et mixte : on ne peut pas refuser la mixité du sport. Filles et garçons suivent les mêmes cours."
+    },
+    {
+      "id": "valeurs_009",
+      "q": "Concernant la pratique de la religion, quelle proposition est correcte ?",
+      "options": [
+        "La France garantit la liberté de croire et de pratiquer sa religion.",
+        "La France impose une religion d'État à tous.",
+        "La pratique religieuse est interdite partout en public.",
+        "Seules certaines religions sont autorisées."
+      ],
+      "answer": 0,
+      "theme": "valeurs",
+      "difficulte": "facile",
+      "source": "Question officielle : formation-civique.interieur.gouv.fr — Licence Ouverte 2.0 Etalab",
+      "explication": "La France garantit la liberté de croire et de pratiquer sa religion dans le respect de la loi. L'État protège la liberté de culte sans en imposer aucune."
+    }
+  ]
+}
