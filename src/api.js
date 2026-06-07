@@ -147,7 +147,7 @@ async function generateThemeQuestions(themeId, themeLabel, onStep) {
     onStep && onStep("⚠ Fallback hors-ligne…", 90);
     await new Promise(r => setTimeout(r, 400));
     const fallback = (window.QUESTIONS_FALLBACK || []).filter(q => q.theme === themeId);
-    if (fallback.length >= 4) return shuffle(fallback).slice(0, 10);
+    if (fallback.length > 0) return shuffle(fallback);
     throw new Error(`Pas assez de questions de secours pour le thème "${themeLabel}".`);
   }
 }

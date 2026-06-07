@@ -93,17 +93,22 @@ function showError(msg) {
 }
 
 // ===== THEME CARDS =====
+function themeQuestionCount(themeId) {
+  return (window.QUESTIONS_FALLBACK || []).filter(q => q.theme === themeId).length;
+}
+
 function buildThemeCards() {
   const container = document.getElementById('themeCards');
   container.innerHTML = '';
   THEMES.forEach(t => {
+    const count = themeQuestionCount(t.id);
     const card = document.createElement('div');
     card.className = 'theme-card';
     card.innerHTML = `
       <div class="theme-card-icon">${t.icon}</div>
       <div class="theme-card-info">
         <div class="theme-card-name" style="color:${t.color}">${t.label}</div>
-        <div class="theme-card-desc">10 questions · Correction immédiate</div>
+        <div class="theme-card-desc">${count} questions · Correction immédiate</div>
       </div>
       <div style="color:#555;font-size:0.8rem">→</div>`;
     card.onclick = () => startThemeQuiz(t);
@@ -144,7 +149,7 @@ async function startSimulator() {
 async function startThemeQuiz(theme) {
   examMode = 'theme';
   examFinished = false;
-  setLoading(`Révision — ${theme.label}`, '10 questions · Correction immédiate');
+  setLoading(`Révision — ${theme.label}`, `${themeQuestionCount(theme.id)} questions · Correction immédiate`);
 
   try {
     const questions = await generateThemeQuestions(theme.id, theme.label, (step, pct) => {
